@@ -2,8 +2,10 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
+import email from '../img/social/email.svg'
 import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
+import linkedin from '../img/social/linkedin.svg'
+import youtube from '../img/social/youtube.svg'
 import github from '../img/github-icon.svg'
 
 const Footer = class extends React.Component {
@@ -68,6 +70,13 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
+                  <a title="email" href="mailto:klub@toastmasterskosice.sk">
+                  <img
+                    src={email}
+                    alt="E-mail"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
                 <a title="facebook" href="https://www.facebook.com/toastmasters.kosice">
                   <img
                     src={facebook}
@@ -75,10 +84,17 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://www.instagram.com/p/BekK6pthQ-s">
+                <a title="linkedin" href="https://www.linkedin.com/company/toastmasters-ko%C5%A1ice">
                   <img
-                    src={instagram}
-                    alt="Instagram"
+                    src={linkedin}
+                    alt="LinkedIn"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="youtube" href="https://www.youtube.com/channel/UCUcc-5LcSzXbgEFkpNsiLXw">
+                  <img
+                    src={youtube}
+                    alt="YouTube"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
