@@ -14,23 +14,23 @@ description: >-
   Sme spoločenský klub pre tréning komunikačných, rečníckych a vodcovských zručností.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/mentor.jpg
       text: >
         Pomáhame ľuďom naučiť sa rečniť na verejnosti, a to pomocou spätnej väzby
         a za pomoci mentora. Vďaka členstvu v klube Toastmasters sa môžeš naučiť
         logicky formulovať a presvedčivo prezentovať svoje myšlienky.
-    - image: /img/coffee-gear.png
+    - image: /img/confident-speaker.jpg
       text: >
         Rečni ako profesionál, staň sa členom klubu Toastmasters Košice. Rozvíjaj
         a zdokonaľuj svoje zručnosti v bezpečnom a podpornom prostredí nášho klubu.
         Uč sa vlastným tempom na základe princípov, ktoré sa uplatňujú v Toastmasters International
         od jeho založenia v roku 1924.
-    - image: /img/tutorials.png
+    - image: /img/success.png
       text: >
         Naučíš sa rečniť na verejnosti, budovať svoje líderské zručnosti,
         maximalizovať svoj potenciál, rozvíjať svoju sieť kontaktov, získať konkurenčnú výhodu v povolaní,
         budovať sebadôveru a sebauvedomenie, či mnoho ďalšieho.
-    - image: /img/meeting-space.png
+    - image: /img/public-meetup.png
       text: >
         Ak ťa zaujíma sebarozvoj a chceš na sebe pracovať, príď sa pozrieť na jedno zo stretnutí nášho klubu.
   heading: Toastmasters Košice
