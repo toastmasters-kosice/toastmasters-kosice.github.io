@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
+import github from '../img/github-icon.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -78,6 +79,13 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="github" href="https://github.com/toastmasters-kosice/">
+                  <img
+                    src={github}
+                    alt="GitHub"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
