@@ -7,7 +7,7 @@ mainpitch:
   title: Toastmasters Košice
   description: >
     Kluby Toastmasters sú určené pre tréning komunikačných, rečníckych a vodcovských
-    zručností. Cieľom je učiť sa praxou, pomocou spätnej väzby a vlastným tempom
+    zručností. Cieľom je učiť sa praxou, vlastným tempom a pomocou spätnej väzby
     s priateľskou podporou ostatných členov klubu.
 intro:
   blurbs:
@@ -17,7 +17,7 @@ intro:
     - image: /img/confident-speaker.jpg
       text: >
         Rozvíjaj a zdokonaľuj svoje zručnosti v bezpečnom a podpornom prostredí
-        na základe princípov Toastmasters Internationa, ktoré má tradíciu od roku 1924.
+        na základe princípov Toastmasters International, ktoré má tradíciu od roku 1924.
   heading: Toastmasters Košice
   description: Miesto, kde sa rodia lídri
 ---
