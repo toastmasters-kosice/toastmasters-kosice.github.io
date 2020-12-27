@@ -9,8 +9,8 @@ description: >-
   Je o prekonávaní strachu z rečnenia. Viacerí sme si tým prešli a strachu sa spoločne zbavujeme na stretnutiach
   Toastmasters. Príďte sa na nás niekedy pozrieť.
 tags:
-  - blogerska-vyzva
-  - strach
+  - Blogerská výzva
+  - Strach
 ---
 ![Mirkina improvizácia](/img/mirkina_improvizacia.jpg)
 
