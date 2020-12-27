@@ -3,7 +3,6 @@ templateKey: index-page
 title: Toastmasters Košice
 image: /img/home-conference.jpg
 heading: Toastmasters Košice
-subheading: Miesto, kde sa tvoria lídri
 mainpitch:
   title: Prečo Toastmasters
   description: >
