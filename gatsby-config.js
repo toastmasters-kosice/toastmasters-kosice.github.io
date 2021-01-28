@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Toastmasters Košice',
+    name: `Toastmasters Košice`,
+    siteUrl: `https://www.toastmasterskosice.sk`,
     description:
       'Sme spoločenský klub pre tréning komunikačných, rečníckych a vodcovských zručností.',
   },
