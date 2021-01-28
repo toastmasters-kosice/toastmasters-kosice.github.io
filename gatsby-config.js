@@ -60,6 +60,30 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-cookiehub-banner`,
+      options: {
+        cookieHubId: "c97f3bc5",
+        cookieHubV2Api: true,
+        categories: [
+          {
+            categoryName: 'analytics',
+            cookieName: 'gatsby-plugin-google-analytics-gdpr_cookies-enabled'
+          }
+        ]
+      }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics-gdpr`,
+      options: {
+        trackingId: "UA-142522378-1",
+        anonymizeIP: true,
+        autoStartWithCookiesEnabled: false,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-sitemap"
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
