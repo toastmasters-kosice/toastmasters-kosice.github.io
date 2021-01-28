@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: announcement
 title: Zmena organizácie online stretnutí (február – marec 2021)
 date: 2021-01-27
 featuredpost: true
