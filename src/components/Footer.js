@@ -45,16 +45,6 @@ const Footer = class extends React.Component {
                         Pre členov
                       </Link>
                     </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
