@@ -9,12 +9,10 @@ Toastmasters Košice je, spolu s ostatnými klubmi na Slovensku, súčasťou [To
 Misia nášho klubu: „Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostne rastú.“
 
 ### Kde sa stretávate?
-Stretávame sa v Tabačke, v [Mid Boxe](https://www.tabacka.sk/priestory/mid-box/).
-
-Mid Box sa nachádza na 1. poschodí. Použite schody pri Veľkej sále (schodisko naľavo od toaliet). Keď vyjdete po schodoch, zamierte vľavo. Na to, aby ste sa dostali do Mid Boxu, musíte prejsť cez Black Box.
+Počas súčasnej pandemickej situácie sa stretávame online cez platformu Zoom.
 
 ### Ako často sa stretávate?
-Stretnutia prebiehajú každé dva týždne. Časovo sú vymedzené na dve hodiny, od 18:30 do 20:30. Spravidla končíme skôr, záleží to od počtu rečníkov.
+Stretnutia prebiehajú každý týždeň. Časovo sú vymedzené na hodinu a pol, od 18:00 do 19:30.
 
 ### Sú stretnutia prístupné verejnosti?
 Každé stretnutie je otvorené pre hostí. Príď sa k nám pozrieť. Si vítaný/á.
