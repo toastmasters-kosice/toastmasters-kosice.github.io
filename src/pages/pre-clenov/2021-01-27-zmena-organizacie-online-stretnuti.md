@@ -2,7 +2,7 @@
 templateKey: announcement
 title: Zmena organizácie online stretnutí (február – marec 2021)
 date: 2021-01-27
-featuredpost: true
+featuredpost: false
 featuredimage: /img/toastmasters_afterparty.jpg
 description: >-
   Počas najbližších dvoch mesiacov budeme robiť stretnutia trochu inak. Chceme, aby
