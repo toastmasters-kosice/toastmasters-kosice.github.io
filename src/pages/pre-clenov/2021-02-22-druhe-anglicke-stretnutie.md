@@ -5,7 +5,7 @@ date: 2021-02-22
 featuredpost: false
 featuredimage: /img/old_books.jpg
 description: >-
-  Ako budú vyzerať stretnutia klubu v najbližších mesiacoch a čo sa mení z pohľadu vzdelávania?
+  Kedy bude druhé anglické stretnutie?
 tags:
   - Novinky v klube
   - Vzdelávanie
