@@ -2,7 +2,7 @@
 templateKey: announcement
 title: Druhé anglické stretnutie
 date: 2021-02-22
-featuredpost: true
+featuredpost: false
 featuredimage: /img/old_books.jpg
 description: >-
   Ako budú vyzerať stretnutia klubu v najbližších mesiacoch a čo sa mení z pohľadu vzdelávania?
