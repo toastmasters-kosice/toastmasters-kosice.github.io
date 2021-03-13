@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Čoho sa najviac bojím
 date: 2020-02-03
-featuredpost: true
+featuredpost: false
 featuredimage: /img/mirkina_improvizacia.jpg
 description: >-
   Naša členka, Mirka Hrešková, napísala krátko po vstupe do klubu blog s názvom „Čoho sa najviac bojím.“
