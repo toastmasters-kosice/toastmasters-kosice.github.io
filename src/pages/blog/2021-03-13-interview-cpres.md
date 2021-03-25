@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Interview s prezidentom Toastmasters Košice
 date: 2021-03-13
-featuredpost: true
+featuredpost: false
 featuredimage: /img/interview-1.jpg
 description: >-
   Trochu sme vyspovedali Vlada, prezidenta nášho klubu. Ako sa dostal do Toastmasters? Ako mu členstvo v klube pomohlo v reálnom živote? 
