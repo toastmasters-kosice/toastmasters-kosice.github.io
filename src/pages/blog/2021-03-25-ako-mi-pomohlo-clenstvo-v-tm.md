@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Ako mi v práci pomohlo členstvo v Toastmasters?
 date: 2021-03-25
-featuredpost: true
+featuredpost: false
 featuredimage: /img/office-flatlay-1.jpg
 description: >-
   Naša členka, Mirka Hrešková, píše o tom, ako v práci využíva všetko, čo sa v Toastmasters naučila.
