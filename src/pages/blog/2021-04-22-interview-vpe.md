@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Interview s viceprezidentom pre vzdelávanie Toastmasters Košice
 date: 2021-04-22
-featuredpost: true
+featuredpost: false
 featuredimage: /img/interview-1.jpg
 description: >-
   Prečítajte si ďalší rozhovor zo série rozhovorov s členmi vedenia, tentokrát s naším viceprezidentom pre vzdelávanie Vladom.
