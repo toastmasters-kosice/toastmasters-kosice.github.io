@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Interview s viceprezidentkou pre členstvo Toastmasters Košice
 date: 2021-04-01
-featuredpost: true
+featuredpost: false
 featuredimage: /img/interview-1.jpg
 description: >-
   Prinášame ďalší rozhovor zo série rozhovorov s členmi vedenia. Dnes sme vyspovedali Nely, našu viceprezidentku pre členstvo.
