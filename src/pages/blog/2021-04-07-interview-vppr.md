@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Interview s viceprezidentkou pre vzťahy s verejnosťou Toastmasters Košice
 date: 2021-04-29
-featuredpost: true
+featuredpost: false
 featuredimage: /img/interview-1.jpg
 description: >-
   Sériu rozhovorov s vedením klubu Toastmasters Košice uzatvára Mirka, viceprezidentka pre vzťahy s verejnosťou. Prečítajte si, čo ju motivovalo vstúpiť do klubu.
