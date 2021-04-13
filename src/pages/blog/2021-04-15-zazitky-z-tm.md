@@ -5,7 +5,7 @@ date: 2021-04-15
 featuredpost: true
 featuredimage: /img/office-flatlay-4-square.jpg
 description: >-
-  Popis
+  Nely popisuje svoje zážitky z Toastmasters. Čo jej členstvo dalo? Ako jej pomohlo v živote?
 tags:
   - Práca na sebe
   - Osobná skúsenosť
