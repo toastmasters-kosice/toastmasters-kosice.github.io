@@ -2,10 +2,11 @@
 templateKey: blog-post
 title: Sila pódií
 date: 2019-11-11
-featuredpost: true
+featuredpost: false
 featuredimage: /img/speaker-square.jpg
 description: >-
-  Popis
+  Čo znamená sila pódií? Svoj pohľad na to poskytne Vlado.
+  Článok je vypracovaný na základe prejavu zo stretnutia klubu Toastmasters Košice.
 tags:
   - Verejné vystupovanie
   - Rečníctvo
@@ -23,7 +24,7 @@ Prednášky boli kvalitou dosť vysoko, ale zaujali ma dve konkrétne:
 - Počas tej jednej sa prednášajúci snažil za necelú hodinu nahradiť firmvér v jeho notebooku za Coreboot. Nebudem zachádzať do detailov. No predstavte si rozobratý notebook na jeho kolene, displej položený niekde bokom a chlapík sa pokúša priamo prečítať a zapísať dáta z čipu v tomto notebooku. A za ním opäť Twitter feed. Niekto napísal, že vyzerá ako Honest Guide a ja som zachytil rehot v sále. Napriek zopár nezdarom to prednášajúci stihol tesne v limite a notebook mu úspešne nabehol. Po prednáške sme sa na jeho výsledok boli pozrieť pekne zblízka.
 - Vrcholom však bola prednáška Michala Špačeka. Nepoznal som ho, ale za tie roky si stihol vybudovať takú reputáciu, že ľudia sa naňho prídu pozrieť aj keby hovoril o sadení stromov v lese. Sála bola plná, nedalo sa tam ani hnúť. Ľudia stáli opretí o steny a tí ďalší sedeli na schodoch. Niekto zavtipkoval, že toľko ľudí nepríde ani na povinné prednášky z matematiky. Michal nám naživo ukazoval zraniteľnosti na webových stránkach. Pre niekoho je live demo strašiak, on si z toho nič nerobil. Sálala z neho neskutočná pohoda.
 
-Jeden človek dokáže ovplyvniť stovky ľudí v sále. To je skutočná sila pódií. 
+Jeden človek dokáže ovplyvniť stovky ľudí v sále. To je *skutočná sila pódií*. 
 
 Ak si chcete vybudovať sieť kontaktov, máte v zásade tri možnosti. 
 1.	Odchytiť si niekoho na chodbe a spraviť taký dobrý dojem, že si vás zapamätá. 
