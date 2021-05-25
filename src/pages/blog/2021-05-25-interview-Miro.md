@@ -14,9 +14,7 @@ tags:
 ![Interview](/img/interview-1.jpg)
 
 # 1. Ako si sa dozvedel o Toastmasters?
-Prvý, od koho som sa o Toastmasters dozvedel, bol Andrej Mažáry. Chvíľku som si o klube niečo len čítal a naberal som odvahu, aby som sa začal zúčastňovať aj stretnutí. Trvalo mi niekoľko mesiacov, kým som nabral odvahu. 
-
-Priznám sa, že som mal aj strach. Taký prvotný strach z neznámeho - čo to bude, čo ma čaká, či zapadnem, či sa nestrápnim. Samozrejme som si vnútorne stále hovoril, že to má ešte čas. Odkladal som to. Veď to viete, vystúpiť zo svojej komfortnej zóny je nepohodlné. 
+Prvý, od koho som sa o Toastmasters dozvedel, bol Andrej Mažáry. Chvíľku som si o klube niečo len čítal a naberal som odvahu, aby som sa začal zúčastňovať aj stretnutí. Priznám sa, že som mal aj trochu strach. Taký prvotný strach z neznámeho - čo to bude, čo ma čaká, či zapadnem, či sa nestrápnim. Samozrejme som si vnútorne stále hovoril, že to má ešte čas. Odkladal som to. Veď to viete, vystúpiť zo svojej komfortnej zóny je nepohodlné. 
 
 A navyše v pondelky, kedy sú stretnutia, som hrával podvečer futbal. Nechcel som ho vynechávať. Nakoniec to vyzerá tak, že po pandémii sa k futbalu vrátim aj tak, ale v utorky :). Chcelo to len určiť si priority a usporiadať si svoj čas.
 
