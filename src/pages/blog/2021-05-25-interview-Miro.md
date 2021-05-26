@@ -10,6 +10,7 @@ tags:
   - interview
   - členstvo
   - nový člen
+  - Toastmasters Košice
 ---
 ![Interview](/img/interview-1.jpg)
 
