@@ -11,6 +11,7 @@ tags:
   - interview
   - vedenie
   - prezident klubu
+  - Toastmasters Košice
 ---
 ![Interview](/img/interview-1.jpg)
 
