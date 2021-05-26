@@ -10,6 +10,7 @@ tags:
   - interview
   - vedenie
   - viceprezident pre členstvo
+  - Toastmasters Košice
 ---
 ![Interview](/img/interview-1.jpg)
 
