@@ -14,7 +14,7 @@ tags:
 ![Interview](/img/interview-1.jpg)
 
 # 1. Ako si sa dozvedel o Toastmasters?
-Prvý, od koho som sa o Toastmasters dozvedel, bol Andrej Mažáry. Chvíľku som si o klube niečo len čítal a naberal som odvahu, aby som sa začal zúčastňovať aj stretnutí. Priznám sa, že som mal aj trochu strach. Taký prvotný strach z neznámeho - čo to bude, čo ma čaká, či zapadnem, či sa nestrápnim. Samozrejme som si vnútorne stále hovoril, že to má ešte čas. Odkladal som to. Veď to viete, vystúpiť zo svojej komfortnej zóny je nepohodlné. 
+Prvý, od koho som sa o Toastmasters dozvedel, bol Andrej Mažáry. Chvíľku som si o klube niečo len čítal a naberal som odvahu, aby som sa začal zúčastňovať aj stretnutí. Priznám sa, že som mal aj trochu strach. Taký prvotný strach z neznámeho - čo to bude, čo ma čaká, či zapadnem, či sa nestrápnim. Samozrejme som si vnútorne stále hovoril, že to má ešte čas. Odkladal som to. Veď to poznáte, vystúpiť zo svojej komfortnej zóny je nepohodlné. 
 
 A navyše v pondelky, kedy sú stretnutia, som hrával podvečer futbal. Nechcel som ho vynechávať. Nakoniec to vyzerá tak, že po pandémii sa k futbalu vrátim aj tak, ale v utorky :). Chcelo to len určiť si priority a usporiadať si svoj čas.
 
@@ -27,7 +27,7 @@ Rád sa učím nové zručnosti, posúvam vpred a hľadám všetky možné spôs
 
 Teraz vidím, že vedieť pripraviť reč, ktorá zaujme, je veľmi dôležité. Na oslavách alebo firmených akciách som stále obdivoval ľudí, ktorí vedeli zaujať a pútavo rozprávať. Tí skúsenejší rozprávali pokojne a s prehľadom, nič ich nevyviedlo z miery. Presne to sa chcem naučiť aj ja. A klub Toastmasters mi ponúka podporné prostredie, kde sa to môžem vlastným tempom naučiť.
 
-# 3. Vnímaš vo svojom živote nejaké zmeny?eš uviesť jeden konkrétny príklad, kde ti Toastmasters pomohol v reálnom živote?
+# 3. Vnímaš vo svojom živote nejaké zmeny? Vieš uviesť jeden konkrétny príklad, kde ti Toastmasters pomohol v reálnom živote?
 Áno, vnímam vo svojom živote zmeny. 
 
 Improvizácie mi dávajú veľa. Vynájsť sa dennodenne pri otázkach v práci, doma a na rôznych stretnutiach je na nezaplatenie. V klube je priestor si to skúšať. 
@@ -44,6 +44,6 @@ Základným pravidlom je ale to, že musím úpravy robiť sám. Mentor ma síce
 V klube Toastmasters je množstvo vecí, ktoré sa môžem naučiť. Mať mentora, na ktorého sa môžem obrátiť s mojimi otázkami je výborné. Ten ma usmerní, poradí mi a ponúkne aj ďalšie zdroje, kde si nájdem k danej problematike viac informácií. 
 
 # 5. Aké sú tvoje najbližšie rečnícke a/alebo líderské ciele?
-Z líderských cieľov spomeniem učite moderovanie. Čakajú ma 2 stretnutia, ktoré budem moderovať. Vidím, že je to dobrá cesta, ako sa naučiť zorganizovať stretnutie vrátanie obsadenia rolí, správne ho viesť a následne prijať spätnú väzbu a zapracovať ju. 
+Z líderských cieľov spomeniem učite moderovanie. Čakajú ma 2 stretnutia, ktoré budem moderovať. Vidím, že je to dobrá cesta, ako sa naučiť zorganizovať stretnutie, správne ho viesť a následne prijať spätnú väzbu a zapracovať ju. 
 
-Mojím ďalším cieľom je mať do konca tohto roka 5 prejavov. Chcem zlepšovať svoje vystupovanie. Postupne budem pridávať ďalšie prvky ako sú gestá, úsmev, očný kontakt, práca s hlasom, práca s dýchom, sledovanie publika...
+Mojím ďalším cieľom je mať do konca tohto roka 5 prejavov. Chcem zlepšovať svoje vystupovanie. Postupne chcem pridávať ďalšie prvky ako sú gestá, úsmev, očný kontakt, práca s hlasom, práca s dýchom, sledovanie publika...
