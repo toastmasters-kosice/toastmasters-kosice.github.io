@@ -14,9 +14,13 @@ tags:
 ![Interview](/img/blog-index-wide.jpg)
 
 O niektorých ľuďoch sa hovorí, že majú dar reči. Je to tak? Podmieňuje talent schopnosť pracovať s hlasom? 
-_HLA-TE-VY-TO_
+
+## HLA-TE-VY-TO
+
 je mnou vymyslená mnemotechnická pomôcka, popisujúca 4 vokálne prostriedky reči:  
+
 Hlas – Tempo – Výška – Tónina 
+
 Zamerajme sa hlbšie na tieto 4 prostriedky. *Čo ich charakterizuje? Aký majú dopad na naše rečnenie? Ako ich správne zvládať?* Čítajte pozorne. 
 
 # Hlasitosť
@@ -45,13 +49,13 @@ Zlatá stredná cesta, tiež nemusí byť vždy najlepším riešením. Monotón
 # Tón 
 Tón predstavuje emóciu zvuku, interpretovanú vaším hlasom. Váš tón napovie publiku, či ste šťastní, smutní, unudení, ustráchaní a podobne. Dovoľte mi to demonštrovať na nasledujúcom príklade:
 
-„Jazdci Divočiny, už idú.“ 
+>  „Jazdci Divočiny, už idú.“ 
 
 Skúste si túto vetu zopakovať bez emócie, s nadšením alebo so strachom v hlase.  
 
 Cvičete si použitie emócie v hlase pri najbližšej príprave reči. Objavte svoje hranice. To, s akou emóciou prezentujete svoju reč, má významný dopady na reakcie publika. 
 
-> Nemám žiadny zvláštny talent, som len vášnivo zvedavý.
+> ## „Nemám žiadny zvláštny talent, som len vášnivo zvedavý."
 napísal Albert Einstein v roku 1952 v liste venovanom Carlovi Seeligovi. 
 
 Rád by som vás vyzval ku kreatívnej zvedavosti. Nepozerajte na talent. Nechajte sa viesť vášňou i zvedavosťou. Ak si budete najbližšie pripravovať nejakú reč, motivačný či slávnostný prejav, spomeňte si na HlaTeVyTó.
