@@ -14,12 +14,12 @@ Misia nášho klubu:
 V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder. 
 
 **Nájdeš odpovede na nasledujúce otázky:**
-Ako si pripraviť prejav?
-Ako sa mám hýbať po pódiu?
-Čo s rukami pri prezentovaní? Ako sa mám tváriť?
-Ako mám pracovať s hlasom? Čo to vôbec znamená?
-Ako zaujať publikum a udržať si jeho pozornosť?
-Ako rozprávať presvedčivo?
+- Ako si pripraviť prejav?
+- Ako sa mám hýbať po pódiu?
+- Čo s rukami pri prezentovaní? Ako sa mám tváriť?
+- Ako mám pracovať s hlasom? Čo to vôbec znamená?
+- Ako zaujať publikum a udržať si jeho pozornosť?
+- Ako rozprávať presvedčivo?
 
 **Okrem toho, že sa na pódiu naučíš vystupovať, Toastmasters je vhodné prostredie, kde si môžeš vyskúšať:**
 - viesť ľudí
