@@ -11,13 +11,31 @@ Misia nášho klubu:
 > „Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostne rastú.“
 
 ### Čo mi Toastmasters môže dať?
-V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder. Okrem toho, že sa na pódiu naučíš vystupovať, Toastmasters je malá firma/rodina, kde si môžeš vyskúšať:
+V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder. 
 
-- Viesť ľudí
-- Komunikovať s odlišnými typmi líderských štýlov
-- Organizovať
-- Rozhodovať
-- A mnoho ďalšieho
+**Nájdeš odpovede na nasledujúce otázky:**
+Ako si pripraviť prejav?
+Ako sa mám hýbať po pódiu?
+Čo s rukami pri prezentovaní? Ako sa mám tváriť?
+Ako mám pracovať s hlasom? Čo to vôbec znamená?
+Ako zaujať publikum a udržať si jeho pozornosť?
+Ako rozprávať presvedčivo?
+
+**Okrem toho, že sa na pódiu naučíš vystupovať, Toastmasters je vhodné prostredie, kde si môžeš vyskúšať:**
+- viesť ľudí
+- organizovať stretnutia
+- rozhodovať
+- ako formulovať konštruktívnu spätnú väzbu a tiež ako ju prijímať
+A mnoho ďalšieho!
+
+***POZOR!* Vedľajšie účinky Toastmasters:*
+- zbavíš sa strachu z rozprávania pred ľuďmi
+- nadobudneš väčšiu sebaistotu
+- stretneš kopec zaujímavých a inšpiratívnych ľudí 
+- asertivita - zistíš, že sa vieš rázne ozvať a že sa nebojíš klásť otázky
+- schopnosť aktívne počúvať
+- nakopnutie kreativity
+- neoceniteľné skúsenosti do osobného a profesionálneho života
 
 ### Môžem sa na vás prísť pozrieť?
 Každé stretnutie je otvorené pre hostí. Príď sa k nám pozrieť, si vítaný/á! 
