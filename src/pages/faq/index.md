@@ -8,18 +8,7 @@ title: Časté otázky
 Toastmasters Košice je súčasťou [Toastmasters International](http://www.toastmasters.org/). Sme teda súčasťou medzinárodnej organizácie, ktorá má kluby po celom svete.
 Misia nášho klubu: „Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostne rastú.“
 
-### Kde sa stretávate?
-Počas súčasnej pandemickej situácie sa stretávame online cez platformu Zoom. Ak to opatrenia dovoľujú, preferujeme viac osobné stretnutia.
-
-### Ako často sa stretávate?
-Stretnutia prebiehajú každý druhý týždeň. Časovo sú vymedzené na hodinu a pol, od 18:00 do 19:30. Aktuálne info o pripravovaných stretnutiach nájdeš na našom [Facebook-u](https://www.facebook.com/toastmasters.kosice).
-
-### Sú stretnutia prístupné verejnosti?
-Každé stretnutie je otvorené pre hostí. Príď sa k nám pozrieť, si vítaný/á! 
-
-Vstup je zdarma. Nemáš čo stratiť - zistíš, či je to niečo pre teba. Uvidíš, ako naše stretnutia fungujú, budeš mať možnosť vypočuť si pripravené prejavy našich členov a vyskúšať si aj krátky improvizovaný prejav. Samozrejme, len ak budeš chcieť. Ako hosť sa nemusíš zapájať, ak nechceš a máš spočiatku trému.
-
-### Čo mi členstvo môže dať?
+### Čo mi Toastmasters môže dať?
 V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder. Okrem toho, že sa na pódiu naučíš vystupovať, Toastmasters je malá firma/rodina, kde si môžeš vyskúšať:
 
 - Viesť ľudí
@@ -29,7 +18,18 @@ V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder
 - Predať členstvo
 - A mnoho ďalšieho
 
+### Môžem sa na vás prísť pozrieť?
+Každé stretnutie je otvorené pre hostí. Príď sa k nám pozrieť, si vítaný/á! 
+
+Vstup je zdarma. Nemáš čo stratiť - zistíš, či je to niečo pre teba. Uvidíš, ako naše stretnutia fungujú, budeš mať možnosť vypočuť si pripravené prejavy našich členov a vyskúšať si aj krátky improvizovaný prejav. Samozrejme, len ak budeš chcieť. Ako hosť sa nemusíš zapájať, ak nechceš a máš spočiatku trému.
+
+### Kde sa stretávate?
+Počas súčasnej pandemickej situácie sa stretávame online cez platformu Zoom. Ak to opatrenia dovoľujú, preferujeme viac osobné stretnutia.
+
+### Ako často sa stretávate?
+Stretnutia prebiehajú každý druhý týždeň. Časovo sú vymedzené na hodinu a pol, od 18:00 do 19:30. Aktuálne info o pripravovaných stretnutiach nájdeš na našom [Facebook-u](https://www.facebook.com/toastmasters.kosice).
+
 ### Ako sa stať členom?
-Odpovede na členstvo ti poskytne viceprezidentka pre členstvo Nely. Spojíš sa s ním cez náš [klubový email](mailto:klub@toastmasterskosice.sk).
+Odpovede na členstvo ti poskytne viceprezidentka pre členstvo Nely. Spojíš sa s ňou cez náš [klubový email](mailto:klub@toastmasterskosice.sk).
 
 V prípade ďalších otázok nás kontaktuj na adrese [klub@toastmasterskosice.sk](mailto:klub@toastmasterskosice.sk).
