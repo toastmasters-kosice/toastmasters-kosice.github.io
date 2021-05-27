@@ -42,7 +42,7 @@ Výška hlasu predstavuje rovinu, v akej máme svoj hlas posadený. Málokoho os
 
 Na druhej strane spektra máme hlbšie posadené hlasy. Vedeli ste, že sme náchylnejší voliť politikov s hlbšími hlasmi? Áno, je to tak. Hĺbku v hlase si podvedome spájame s mocou a autoritou. 
 
-Zlatá stredná cesta tiež nemusí byť vždy najlepším riešením. Monotónnosť nastáva, ak sa výška hlasu nemení. Rečník udržuje hlas v jednej tónine – mono tón. Nie je potrebné zachádzať do extrémov. Dôležité je vyvarovať sa monotónnosti a adekvátne pracovať s hlasom. Obzvlášť pri priamej reči. 
+Zlatá stredná cesta tiež nemusí byť vždy najlepším riešením. Monotónnosť nastáva, ak sa výška hlasu nemení a rečník udržuje hlas v rovnakej výške – mono tón. Nie je potrebné zachádzať do extrémov. Dôležité je vyvarovať sa monotónnosti a adekvátne pracovať s hlasom. Obzvlášť pri priamej reči. 
 
 # Tón 
 Tón predstavuje emóciu zvuku, interpretovanú vaším hlasom. Váš tón napovie publiku, či ste šťastní, smutní, unudení, ustráchaní a podobne. Dovoľte mi to demonštrovať na nasledujúcom príklade:
@@ -51,7 +51,7 @@ Tón predstavuje emóciu zvuku, interpretovanú vaším hlasom. Váš tón napov
 
 Skúste si túto vetu zopakovať bez emócie, s nadšením alebo so strachom v hlase.  
 
-Cvičete si použitie emócie v hlase pri najbližšej príprave reči. Objavte svoje hranice. To, s akou emóciou prezentujete svoju reč, má významný dopady na reakcie publika. 
+Precvičte si použitie emócie v hlase pri najbližšej príprave reči. Objavte svoje hranice. To, s akou emóciou prezentujete svoju reč, má významný dopady na reakcie publika. 
 
 > ### „Nemám žiadny zvláštny talent, som len vášnivo zvedavý."
 napísal Albert Einstein v roku 1952 v liste venovanom Carlovi Seeligovi.
