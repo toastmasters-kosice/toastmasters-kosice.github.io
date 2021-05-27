@@ -17,7 +17,6 @@ V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder
 - Komunikovať s odlišnými typmi líderských štýlov
 - Organizovať
 - Rozhodovať
-- Predať členstvo
 - A mnoho ďalšieho
 
 ### Môžem sa na vás prísť pozrieť?
