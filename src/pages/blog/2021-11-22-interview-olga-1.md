@@ -20,6 +20,6 @@ O Toastmasters som sa dozvedela od svoje ruskej známej.
 Rozhodla som stať členom klubu pretože chcem lepšie rozprávať po slovensky na verejnosti.
 
 # 3. Aké sú tvoje najbližšie rečnícke a/alebo líderské ciele?
-Moje najbližšie rečnícke ciele... Chcela by som využiť svoje schopnosti a zručnosti v rozprávaní tak, aby som dok8zala zaujať neznámych ľudí.
+Moje najbližšie rečnícke ciele... Chcela by som využiť svoje schopnosti a zručnosti v rozprávaní tak, aby som dokázala zaujať neznámych ľudí.
 
 ![Toastmasters Košice](/img/klub-1.jpg)
