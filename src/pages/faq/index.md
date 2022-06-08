@@ -22,33 +22,35 @@ V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder
 - Ako rozprávať presvedčivo?
 
 **Okrem toho, že sa na pódiu naučíš vystupovať, Toastmasters je vhodné prostredie, kde si môžeš vyskúšať:**
-- viesť ľudí
-- organizovať stretnutia
-- rozhodovať
-- ako formulovať konštruktívnu spätnú väzbu a tiež ako ju prijímať
-A mnoho ďalšieho!
+- Viesť ľudí
+- Organizovať stretnutia
+- Rozhodovať
+- Ako formulovať konštruktívnu spätnú väzbu a tiež ako ju prijímať
+- A mnoho ďalšieho!
 
-***POZOR!* Vedľajšie účinky Toastmasters:*
-- zbavíš sa strachu z rozprávania pred ľuďmi
-- nadobudneš väčšiu sebaistotu
-- stretneš kopec zaujímavých a inšpiratívnych ľudí 
-- asertivita - zistíš, že sa vieš rázne ozvať a že sa nebojíš klásť otázky
-- schopnosť aktívne počúvať
-- nakopnutie kreativity
-- neoceniteľné skúsenosti do osobného a profesionálneho života
+**POZOR! Vedľajšie účinky Toastmasters:**
+- Zbavíš sa strachu z rozprávania pred ľuďmi
+- Nadobudneš väčšiu sebaistotu
+- Stretneš kopec zaujímavých a inšpiratívnych ľudí 
+- Asertivita - zistíš, že sa vieš rázne ozvať a že sa nebojíš klásť otázky
+- Schopnosť aktívne počúvať
+- Nakopnutie kreativity
+- Neoceniteľné skúsenosti do osobného a profesionálneho života
 
 ### Môžem sa na vás prísť pozrieť?
 Každé stretnutie je otvorené pre hostí. Príď sa k nám pozrieť, si vítaný/á! 
 
-Vstup je zdarma. Nemáš čo stratiť - zistíš, či je to niečo pre teba. Uvidíš, ako naše stretnutia fungujú, budeš mať možnosť vypočuť si pripravené prejavy našich členov a vyskúšať si aj krátky improvizovaný prejav. Samozrejme, len ak budeš chcieť. Ako hosť sa nemusíš zapájať, ak nechceš a máš spočiatku trému.
+Vstup je zdarma. Nemáš čo stratiť - zistíš, či je to niečo pre teba. Uvidíš, ako naše stretnutia fungujú, budeš mať možnosť vypočuť si pripravené prejavy našich členov a vyskúšať si aj krátky improvizovaný prejav. Ako hosť sa nemusíš zapájať, len ak budeš sám/sama chcieť.
 
 ### Kde sa stretávate?
-Počas súčasnej pandemickej situácie sa stretávame online cez platformu Zoom. Ak to opatrenia dovoľujú, preferujeme viac osobné stretnutia.
+Stretávame sa vo Verejnej knižnici Jána Bocatia v Košiciach na Hviezdoslavovej 1006/5. Po vstupe do knižnice choďte na prvé poschodie. Uvidíte aj cedule s nápisom Toastmasters.
 
 ### Ako často sa stretávate?
-Stretnutia prebiehajú každý druhý týždeň. Časovo sú vymedzené na hodinu a pol, od 18:00 do 19:30. Aktuálne info o pripravovaných stretnutiach nájdeš na našom [Facebook-u](https://www.facebook.com/toastmasters.kosice).
+Stretnutia prebiehajú každý druhý týždeň. Časovo sú vymedzené približne na hodinu a trištvrte, od 17:15 do 19:00. Oficiálne stretnutia otvárame o 17:30.
+
+Aktuálne info o pripravovaných stretnutiach nájdeš na našom [Facebooku](https://www.facebook.com/toastmasters.kosice).
 
 ### Ako sa stať členom?
-Odpovede na členstvo ti poskytne viceprezidentka pre členstvo Nely. Spojíš sa s ňou cez náš [klubový email](mailto:klub@toastmasterskosice.sk).
+Odpovede na členstvo ti poskytne náš viceprezident pre členstvo, Vlado. Spojíš sa s ním cez náš [klubový email](mailto:klub@toastmasterskosice.sk).
 
 V prípade ďalších otázok nás kontaktuj na adrese [klub@toastmasterskosice.sk](mailto:klub@toastmasterskosice.sk).
