@@ -8,7 +8,8 @@ description: >-
   Sme tu, aby sme vám pomáhali na vašej ceste. Ale aktívni musíte byť vy.
 tags:
   - Novinky v klube
-  - Stretnutia
+  - Vzdelávanie
+  - Pravidlá v klube
 ---
 ![Mentor](/img/mentor-board.jpg)
 
@@ -34,14 +35,14 @@ Napriek mojej snahe, zo štyroch nových členov, si stihol vybrať cestu len je
 
 > Aktivita musí vychádzať od vás.
 
-Pred pár rokmi bol u nás Matej Petrenka z klubu [Slovenskí Toastmasters](https://slovenski.toastmasters.sk/). Pamätám si jeho vzdelávací prejav na školení vedúcich klubov Toastmasters. Volal sa: "Nebojme sa byť sebeckí." Nemyslel to tak, že máme byť egoisti, ktorí idú hlava-nehlava a po nich ostáva spúšť. Myslel to tak, že Toastmasters nám môže veľa dať. ALE... musíme si to prísť zobrať. Málokedy sa naše životy zlepšia len tak samy od seba. Chce to tvrdú drinu. Výsledok však podľa mňa stojí za to.
+Pred pár rokmi bol u nás Matej Petrenka z klubu [Slovenskí Toastmasters](https://slovenski.toastmasters.sk/). Pamätám si jeho vzdelávací prejav na školení vedúcich klubov Toastmasters. Volal sa: „Nebojme sa byť sebeckí.“ Nemyslel to tak, že máme byť egoisti, ktorí idú hlava-nehlava a po nich ostáva spúšť. Myslel to tak, že Toastmasters nám môže veľa dať. ALE... musíme si to prísť zobrať. Málokedy sa naše životy zlepšia len tak samy od seba. Chce to tvrdú drinu. Výsledok však podľa mňa stojí za to.
 
 Dnes ráno som premýšľal o tom, ako budem túto pasivitu riešiť. A toto je moje rozhodnutie...
 
-My vo vedení sme tu predovšetkým na to, aby sme vám robili podporu. Aktívne monitorujeme naše skupiny, čítame maily a nájdeme si čas aj na videohovor, aby sme zodpovedali vaše otázky. Každý nový člen od nás bude odteraz dostávať základné informácie, aby sa vedel zorientovať. A následne čakáme aktivitu už z jeho strany. Pokiaľ bude mať otázky alebo si bude chcieť naplánovať svoj prejav, nech nám píše on. Takto mi to dáva zmysel. A takto to funguje aj v zdravých a úspešných firmách. Vyšší manažment nie je na to, aby buzeroval tých pod nimi. Kladie si otázky: "Čo od nás potrebujete?" či "Ako vám vieme pomôcť?" Mikromanažment neuznávam, takže ho robiť nebudeme.
+My vo vedení sme tu predovšetkým na to, aby sme vám robili podporu. Aktívne monitorujeme naše skupiny, čítame maily a nájdeme si čas aj na videohovor, aby sme zodpovedali vaše otázky. Každý nový člen od nás bude odteraz dostávať základné informácie, aby sa vedel zorientovať. A následne čakáme aktivitu už z jeho strany. Pokiaľ bude mať otázky alebo si bude chcieť naplánovať svoj prejav, nech nám píše on. Takto mi to dáva zmysel. A takto to funguje aj v zdravých a úspešných firmách. Vyšší manažment nie je na to, aby buzeroval tých pod nimi. Kladie si otázky: „Čo od nás potrebujete?“ či „Ako vám vieme pomôcť?“ Mikromanažment neuznávam, takže ho robiť nebudeme.
 
 ## Icebreaker
-Ako vieme, prvý prejav je pre členov azda najdôležitejší. Je to akýsi prirodzený krok od improvizácií k dlhším prejavom. Doteraz viceprezident pre členstvo aktívne kontaktoval členov a snažil sa s nimi tento prejav naplánovať. Po novom to robiť nebudeme. Bude na vás, kedy tento prejav absolvujete... Na najbližšom stretnutí, o pol roka, za rok? Budeme radi, keď sa budete aktívne zúčastňovať stretnutí, ale o tom, ako chcete na nich tráviť čas, rozhodujete predovšetkým vy. Mám rád vedenie príkladom. Uvidíte iných, ako rečnia a ako sa zlepšujú. Toto by vás malo motivovať, aby ste si vy sami plánovali prejavy. A ja vám ich rád budem schvaľovať.
+Ako vieme, prvý prejav je pre členov azda najdôležitejší. Je to akýsi prirodzený krok od improvizácií k dlhším prejavom. Doteraz viceprezident pre vzdelávanie aktívne kontaktoval členov a snažil sa s nimi tento prejav naplánovať. Po novom to robiť nebudeme. Bude na vás, kedy tento prejav absolvujete... Na najbližšom stretnutí, o pol roka, za rok? Budeme radi, keď sa budete aktívne zúčastňovať stretnutí, ale o tom, ako chcete na nich tráviť čas, rozhodujete predovšetkým vy. Mám rád vedenie príkladom. Uvidíte iných, ako rečnia a ako sa zlepšujú. Toto by vás malo motivovať, aby ste si vy sami plánovali prejavy. A ja vám ich rád budem schvaľovať.
 
 Na to, aby ste mohli tento prejav absolvovať, potrebujete mať vybratú cestu. Kým si ju nezvolíte, prejav vám nepovolím. Všetky informácie dostanete a opäť platí, že sa máte koho opýtať.
 
