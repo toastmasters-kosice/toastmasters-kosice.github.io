@@ -15,7 +15,7 @@ tags:
 Náš klub prechádza azda najväčšou transformáciou vo svojej viac ako sedemročnej histórii. Mnohé veci, na ktoré sme si zvykli, som zrušil. A naopak, zavádzam novinky ako napríklad časomieru. Zbožňujem inováciu. Prečo to všetko robím? Pretože si myslím, že nie je správne držať sa za každú cenu starého len preto, že sme si akosi zvykli. Ovocie sa už dostavuje. O členstvo sa zaujímajú niektorí bývalí členovia klubu, ktorí odišli práve kvôli skostnateným pravidlám. A navštíviť nás chce aj kamarátka, ktorú v minulosti odradili improvizácie. Pozrela si náš nedávny [záznam z Prešova](https://youtu.be/C-pBrjWYDPg) a povedala, že sa jej páčili tie témy. Vraj sú také, ako zo skutočného života. Podobných rozhovorov som mal v poslednej dobe niekoľko.
 
 <div class="video-container">
-  <iframe class="video-iframe" src="https://youtu.be/C-pBrjWYDPg"></iframe>
+  <iframe class="video-iframe" src="https://www.youtube.com/embed/C-pBrjWYDPg"></iframe>
 </div>
 
 Máme jedinečnú šancu pritiahnuť k sebe šikovných ľudí. Ale aby sa nám to podarilo, musíme sa zmeniť aj my: naša klubová kultúra a v niektorých prípadoch aj my sami.
@@ -27,7 +27,7 @@ V našom klube bolo odjakživa zaužívané, že keď k nám príde nový člen,
 > Čas je tá najvzácnejšia komodita akú máme. Ja tým mojim nehodlám plytvať.
 
 <div class="video-container">
-  <iframe class="video-iframe" src="https://youtu.be/lGlxwWSVnOY"></iframe>
+  <iframe class="video-iframe" src="https://www.youtube.com/embed/lGlxwWSVnOY"></iframe>
 </div>
 
 Napriek mojej snahe, zo štyroch nových členov, si stihol vybrať cestu len jeden. A len dvaja z nich absolvovali svoj Icebreaker. Moja [aktivita](https://youtu.be/lGlxwWSVnOY), kde vám núkam možnosť naučiť sa rečniť rýchlejšie, vás síce zaujala a niektorí ste sa ma pýtali otázky, ale ďalej sa nestalo nič.
