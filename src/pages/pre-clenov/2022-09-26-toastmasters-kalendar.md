@@ -39,7 +39,7 @@ Následne si ho môžete pridať do vášho kalendára. Všetky bežné aplikác
 
 Pre Google kalendár, ktorý používa asi väčšina z vás, prikladám [návod](https://support.google.com/calendar/answer/37100?hl=sk&ref_topic=10510447).
 
-Do budúcna pridáme kalendár aj na túto webstránku.
+Tento kalendár bol takisto [vložený na náš web](https://www.toastmasterskosice.sk/kalendar).
 
 ## Záver
 Verím, že vám novinka príde užitočná aspoň z polovice tak ako mne. A dúfam, že sa budeme na stretnutiach stretávať aspoň v takom hojnom počte ako doteraz.
