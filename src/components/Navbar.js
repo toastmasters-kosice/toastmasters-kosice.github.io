@@ -68,6 +68,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/faq">
                 Časté otázky
               </Link>
+              <Link className="navbar-item" to="/kalendar">
+                Kalendár
+              </Link>
               <Link className="navbar-item" to="/pre-clenov">
                 Pre členov
               </Link>
