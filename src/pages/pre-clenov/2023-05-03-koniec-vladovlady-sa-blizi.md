@@ -11,12 +11,12 @@ tags:
   - Klubové voľby
 ---
 
-![Kalendár](/img/kalendar-tmke.jpg)
+![Turistika na Jahodnej](/img/tmke-jahodna-hike.jpg)
 
 Ahojte Toastmasteri,
 dnes sme mali v klube poradu a prišlo mi, že toto bude najvhodnejšia forma, ako vás informovať o tom, čo sa chystá. Isto lepšia ako spamovať tú našu skupinu na Messengeri. Čo nás čaká v najbližších týždňoch?
 
-Sme občianske združenie a vedenie si volíme na rok. Ten čas práve nastal. Názov tohto blogu som síce nazval "koniec vladovlády...", ale verím, že to so mnou nebolo také zlé ako za čias despotov v časoch hrôzovlády z rokov 1793-1794 😁
+Sme občianske združenie a vedenie si volíme na rok. Ten čas práve nastal. Názov tohto blogu som síce nazval "koniec vladovlády...", ale verím, že to so mnou nebolo také zlé ako za čias despotov v časoch [hrôzovlády z rokov 1793-1794](https://sk.wikipedia.org/wiki/Ve%C4%BEk%C3%A1_franc%C3%BAzska_revol%C3%BAcia) 😁
 
 ## Voľby nového vedenia 15.5.2023
 
