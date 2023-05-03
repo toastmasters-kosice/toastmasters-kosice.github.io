@@ -28,6 +28,8 @@ Dnes som na porade predbežne zisťoval, ako bude asi nové vedenie vyzerať a k
 
 Zatiaľ to vyzerá takto. Prezidentom by chcel byť Miro Kajňák, ako viceprezident pre členstvo bude pokračovať Lukáš Borovský. Trung nebude pokračovať v roli viceprezidenta pre vzdelávanie, ale predbežne potvrdil záujem Feri Kocák. Trung by naopak chcel byť našim tajomníkom a tiež to vyzerá tak, že sa bude starať o naše videozáznamy. S tými mu pomôže Dávid Bubenko, náš najnovší člen, ktorý by chcel byť tiež viceprezidentom pre PR. Juraj bude pokračovať v role pokladníka a zoberie aj rolu technického vedúceho.
 
+Ja sa presuniem do roly mentora. Vlastne som to robil aj teraz. Rozdiel bude ten, že už nebudem ten, kto bude aktívne rozhodovať o smerovaní klubu. Rád poradím a pomôžem vám ostatným. Stačí sa len ozvať. Ako viete, som časovo vyťažený, ale keď vidím, že mi niečo dáva zmysel, čas si vždy nájdem. Náš klub mi zmysel dáva.
+
 Takto to teda vyzerá v tejto chvíli. Voľby sú samozrejme otvorené. Niektorí ste dnes na stretnutí neboli a myslím si, že sa aj medzi vami nájdu nádejní adepti, ktorí o vedení už uvažovali. Napríklad taký Sparťan Matej.
 
 Mojou úlohou je do najbližšieho stretnutia zistiť všetko potrebné, aby bolo nové vedenie zvolené legitímne. Verím, že to hladko zvládneme.
