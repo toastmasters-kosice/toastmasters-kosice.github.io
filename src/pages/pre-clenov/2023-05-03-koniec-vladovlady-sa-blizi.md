@@ -20,7 +20,7 @@ Sme občianske združenie a vedenie si volíme na rok. Ten čas práve nastal. N
 
 ## Voľby nového vedenia 15.5.2023
 
-Späť však k téme. Ako také voľby prebiehajú? Úprimne, aj ja si to potrebujem zistiť. Takto minulý rok sme boli na pokraji rozpadu klubu. Nebol totiž nikto, kto by ho ďalej viedol. A ja, ktorý som už na stretnutia ani nechodil, som sa stal rovno prezident.
+Späť však k téme. Ako také voľby prebiehajú? Úprimne, aj ja si to potrebujem zistiť. Takto minulý rok sme boli na pokraji rozpadu klubu. Nebol totiž nikto, kto by ho ďalej viedol. A ja, ktorý som už na stretnutia ani nechodil, som sa stal rovno prezidentom.
 
 Forma volieb nie je až taká dôležitá. Len potrebujeme mať formálny dokument s podpismi nadpolovičnej väčšiny členov. Detaily zistím v najbližších dňoch a voľby prebehnú na najbližšom stretnutí. Budeme radi, ak sa vyjadríte aj v prípade, že sa nemôžete zúčastniť osobne. Individuálne doriešime, aby ste v nejakej forme hlasovať mohli. Hlavne buďte v takomto prípade aktívni a ozvite sa nám.
 
