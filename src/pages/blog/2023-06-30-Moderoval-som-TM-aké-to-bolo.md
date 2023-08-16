@@ -31,4 +31,4 @@ O týchto veciach som sa dozvedel vďaka spätnej väzbe a videozáznamu, ktorý
 
 Nezabudni heslo dňa: "Usmievaj sa, zuby nemáš navždy." 
 
-*Príspevkom Ti život obohatil : Dávid* 
+*Príspevkom Ti život obohatil : Chlapík od PR* 
