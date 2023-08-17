@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Prišiel na psa mráz
+title: Prišiel na psa mráz (alebo keď moderovanie nešľape)
 date: 2023-07-26
 featuredpost: false
 featuredimage: /img/vrecko na hlave.jpg
