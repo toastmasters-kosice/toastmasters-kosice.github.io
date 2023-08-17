@@ -13,7 +13,7 @@ tags:
 
 *čítanie na 5 min*
 
-![Interview]
+![Interview](/img/bbc08427-31cf-419b-9f91-bb6744cf02cd.jpg)
 
 *zdroj obrázka:( https://www.channel4.com/programmes/embarrassing-bodies )*
 
