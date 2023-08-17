@@ -49,7 +49,7 @@ slovami našej ľudovej slovesnosti, na maderu.
 ![Interview](/img/malá krava.jpg)
 
    Moderovanie vnímam ako nie typický, no predsa len prejav. Preto si pripravím niekoľko viet ktoré prednesiem a aj pár replík, 
-ktoré by sa mohli hodiť. Ak si k tomu vybudujem príležitosť(zatiaľ to nevyšlo, ale netreba hádzať flintu do žita). Prípravou 
+ktoré by sa mohli hodiť. Ak si k tomu vybudujem príležitosť(čo zatiaľ nevyšlo, ale raz to príde). Prípravou 
 mám na mysli nie len znenie viet, ale aj ich natrénovanie pred zrkadlom. Áno, viem ako to znie. Roky som bol presvedčený o tom, 
 že to robia iba blbci. Schopnosť pútavo rozprávať mi prišla zaujímavá už veľa, veľa rokov dozadu. Tak som sa dal na strastiplnú 
 cestu nákupu a čítania kopy literatúry. Neohrozene balansujem nad priepasťou s Carnegieom v pravej a Jesť, milovať, meditovať v 
