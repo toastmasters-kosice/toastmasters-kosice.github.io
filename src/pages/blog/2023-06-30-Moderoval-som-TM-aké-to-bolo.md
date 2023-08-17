@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Moderoval som TM - aké to bolo
 date: 2023-06-30
+date: *(čítanie na 5 min)*
 featuredpost: false
 featuredimage: /img/pexels-matheus-bertelli-3321796.jpg
 description: >-
