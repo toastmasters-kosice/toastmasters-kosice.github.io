@@ -11,7 +11,7 @@ tags:
   - Osobná skúsenosť
 ---
 
-*čítanie na 5 min*
+*čítanie na 3 min*
 
 ![Interview](/img/communication-pexels-tima.jpg)
 
