@@ -14,6 +14,7 @@ tags:
 *čítanie na 4 min*
 
 *zdroj obrázka v upútavke: https://www.etftrends.com/thematic-investing-channel/nerd-etf-not-just-for-geeks/*
+
 ![Interview](/img/funny-school-signs-small.jpg)
 *zdroj: https://www.teachingexpertise.com/classroom-ideas/funny-school-signs/*
 
