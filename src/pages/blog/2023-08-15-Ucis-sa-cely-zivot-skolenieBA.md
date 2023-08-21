@@ -16,6 +16,7 @@ tags:
 *zdroj obrázka v upútavke: https://www.etftrends.com/thematic-investing-channel/nerd-etf-not-just-for-geeks/*
 
 ![Interview](/img/funny-school-signs-small.jpg)
+
 *zdroj: https://www.teachingexpertise.com/classroom-ideas/funny-school-signs/*
 
   Okrem rozprávania sa v TM zameriavame aj na organizačné schopnosti. Rozprávačské sú prístupné ktorémukoľvek členovi, na organizačné sa potrebuješ dostať do vedenia
