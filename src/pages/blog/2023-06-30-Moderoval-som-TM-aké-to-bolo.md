@@ -28,8 +28,6 @@ tags:
 
 ![Interview](/img/Subzero_legendary-small.jpg)
 
-*zdroj obrázka:(https://www.playstationlifestyle.net/2010/11/12/new-mortal-kombat-trailer-features-sub-zero/)*
-
 # Urob si zrkadlo
   O týchto veciach som sa dozvedel vďaka spätnej väzbe a videozáznamu, ktorý je robený pre členov. Neuvidíš nepochopíš. Keď som sa videl na zázname vôbec prvýkrát, spadla mi sánka. Nebolo to z nadšenia. Kým sa nevidíš, netušíš ako ťa vidia druhí. Myslíš, že to vieš. Ale ver mi, nemáš páru. Je to niečo, čo Ťa nakopne. A pri tom neide o nejaké zložité úkony. Hrubé nedostatky zosekáš do 3-4 prejavov. Ak to prepletieš nejakými improvizáciami, pôjde to rýchlejšie. Vravím základné nedostatky, od Michelangelovho Dávida to má ešte ďaleko. Ale asi nepotrebuješ hypnotizovať davy už len svojím hlasom. Za mňa, perfektná skúsenosť. Teším sa na ďalšie stretnutie, tam už idem na ostro - moderátor celého stretnutia. 
 
