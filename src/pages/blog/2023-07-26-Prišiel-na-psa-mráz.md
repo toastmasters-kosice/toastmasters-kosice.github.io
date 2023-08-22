@@ -22,7 +22,6 @@ tretíkrát.
 
 ![Interview](/img/ach-ta-prostata-small.jpg)
 
-*zdroj obrázka:( https://www.channel4.com/programmes/embarrassing-bodies )*
 
 # Keď to ide *"do kytek"*
   Predstav si situáciu. Je leto. S dovolenkou na teba ešte neprišiel rad a tak v práci ťaháš aj za ostatných, 
