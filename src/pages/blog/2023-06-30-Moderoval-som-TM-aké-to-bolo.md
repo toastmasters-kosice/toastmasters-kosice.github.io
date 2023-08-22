@@ -26,7 +26,7 @@ tags:
 # Dojmy? Nooooo...
   Moje dojmy z prvého moderovania? Príjemné. Počiatočná nervozita? Samozrejme. Celkom rýchlo ale opadla a začal som aj trochu vnímať čo sa deje. Je fajn, že človek nemusí rozprávať pred natrieskanou sálou. Tých 10 - 15 ľudí v miestnosti je akurát, aby si vyšiel z komfortnej zóny a zároveň nedostal infarkt. Stratil som niť? Jasné. Prvé tri vety na pána, potom okno. Štvrtá nejako nedošla. Stalo sa niečo? Áno, pár priateľských pokývaní hlavou z publika a šlo sa ďalej. V tom je to čaro. Skúšaš čo ťa baví a robíš to bez rozpakov čo ak to nevýjde. Viem, že sa pri rozprávaní mračím. Neuvedomujem si to a nemám na to dôvod. Taktiež sa zbytočne veľa hýbem po pódiu a pravou rukou kývem, ako zmyslov zbavený. Na to všetko som si dával pozor. Výsledok? Naďalej sa tvárim ako SubZero z Mortal Combat. Na štvrtine videozáznamu nie som lebo kameraman nestíha otáčať kameru a pravicou som urobil prievan v miestnosti. Na parááááááádu. 
 
-![Interview](/img/Subzero_legendary.jpg)
+![Interview](/img/Subzero_legendary-small.jpg)
 
 *zdroj obrázka:(https://www.playstationlifestyle.net/2010/11/12/new-mortal-kombat-trailer-features-sub-zero/)*
 
