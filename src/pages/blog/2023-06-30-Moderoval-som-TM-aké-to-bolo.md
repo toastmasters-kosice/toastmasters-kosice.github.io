@@ -15,7 +15,7 @@ tags:
 
   Denne komunikuješ na viacerich úrovniach. Často obmedzenejšie ako by si chcel. A pri tom je toľko príležitostí. Jednu som využil a zapojil sa do TM (Toaustmasters). Po dvoch pripravených prejavoch a niekoľkých improvizáciach bola možnosť vyskúšať si moderovanie stretnutia. Prečo nie. Rozhodnutie padlo najprv na menšiu moderátorskú rolu, moderovanie improvizácií. 
 
-![Interview](/img/communication-pexels-tima.jpg)
+![Interview](/img/communication-pexels-tima-small.jpg)
 
 # Prečo vôbec?
   V celku jednoduchá záležitosť. Povedať pár slov o tom, načo sa nám improvizácie hodia (čo všetci dobre vieme. Nikdy neide nič podľa plánu že?) Vymyslíš témy, na ktoré budú (ne)dobrovoľníci improvizovať. Vďačná úloha, s ktorou sa dá lahodne vyhrať. V mojom prípade doslova "chuťovečka", lebo všetko sa točilo okolo témy stretnutia: Darovanie krvi. Decentná morbidita na mieste. Tak si sa mohol vteliť napríklad do Drákulu propagujúceho na vegánskom festivale svoj zdravý životný štýl, či Voldemorta zháňajúceho na Dark Webe krv jednorožca. Potom už len stačí uvádzať jednotlivých improvizátorov a sem tam povedať niečo vtipné, ideálne k téme. Jedno moderovanie je však len oťukanie si toho čo sa vlastne deje. Stojíš tam ako päť peňazí a rozmýšľaš čo s tým. Niečo si pripravíš na úvod, nejako to dostaneš von a kopu vecí si vôbec neuvedomuješ. Hlavne neverbálnu stránku. Máš čo robiť aby si nekomolil slová, nie to špekulovať či sa usmievaš. Napríklad ja sa pri prejavoch neusmievam zrejme zo zásady. A pritom fakt chcem, a často mám pocit, že som úsmev sám. 
