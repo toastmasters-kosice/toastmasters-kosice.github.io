@@ -13,17 +13,16 @@ tags:
 
 *čítanie na 5 min*
 
-![Interview](/img/bbc08427-31cf-419b-9f91-bb6744cf02cd.jpg)
-
-*zdroj obrázka:( https://www.channel4.com/programmes/embarrassing-bodies )*
-
-# Ako to vlastne zahrať?
   Moderátor do značnej miery udáva tón stretnutia. Preto som strávil nejaké večery na Youtube a hľadal inšpiráciu 
 na kanáloch ako TEDx a Toustmasters International. Prelustroval som aj Stand Up komikov z našej i zahraničnej scény. 
 Hľadal som rečníka, ktorý má iskru a dokáže ju preniesť na publikum. Kým si človek nájde vlastný štýl, nie je zlé 
 prebrať pár trikov od skúsenejších borcov. Moje druhé moderovanie som vnímal ako celkom podarené. Bol som dobre 
 naladený a dokázal som to poslať ďalej. Avšak situácia sa zmenila na ďalšom stretnutí, keď malo dôjsť k moderovaniu 
 tretíkrát.
+
+![Interview](/img/bbc08427-31cf-419b-9f91-bb6744cf02cd.jpg)
+
+*zdroj obrázka:( https://www.channel4.com/programmes/embarrassing-bodies )*
 
 # Keď to ide *"do kytek"*
   Predstav si situáciu. Je leto. S dovolenkou na teba ešte neprišiel rad a tak v práci ťaháš aj za ostatných, 
@@ -36,6 +35,7 @@ Pre mňa prvýkrát mimo knižnice, kde máme pravidelné stretnutia. Na discort
 lebo každé prostredie je iné. Prišlo mi to prehnané, veď viac menej viem koľko ľudí čakať a tiež priestor bude približne
 rovnako veľký ako stále. Takže, aký krok vpred?
 
+# Začína ísť do tuhého
   Zrazu sme boli takmer všetci a stretnutie sa mohlo začať. Moderátor stretnutia sa pustil do budovania atmosféry, aby 
 dostal účastníkov do správneho rozpoloženia. Osobne mám túto časť rád. Hlavne keď ma čaká nejaká významnejšia úloha. Tým 
 mám na mysli rečnenie s pripraveným prejavom, alebo moderovanie improvizácií. Zatiaľ mám pred vystúpením trému, čo pociťujem 
@@ -48,7 +48,7 @@ spätnú väzbu. Ale som pri tom bez emócie, akoby duchom inde. Toto sa mi stal
 prichádzal naspídovaný a ak aj nie plný elánu, tak určite otvorený nervy drásajúcim prekérnostiam na pódiu. No dnes som, 
 slovami našej ľudovej slovesnosti, na maderu.
 
-![Interview](/img/malá krava.jpg)
+
 
 # Neboj sa zrkadla aj keď si škaredý
   Moderovanie vnímam ako nie typický, no predsa len prejav. Preto si pripravím niekoľko viet ktoré prednesiem a aj pár replík, 
@@ -70,6 +70,7 @@ cvičení. Čas na prípravu teda nebol, no nemal som ani energiu na nervozitu. 
 Texasu (čo ju tam asi čaká že?). Po pravde, mal som istý pocit sebavedomia, lebo posledné dve moderovania sa mi zdali celkom úspešné. 
 Nebudem chodiť okolo horúcej kaše, tentokrát to bolo z mojej strany totálne fiasko. Vypichnem niekoľko základných chýb.
 
+![Interview](/img/malá krava.jpg)
   Predstavenie tém improvizátorom aj účastníkom mohlo byť košatejšie. Rovnako som sa mohol opýtať, či je zadanie dostatočne jasné, 
 lebo poniektoré improvizácie sa mierne zvrtli. Na viacerých miestach som mohol vtipne reagovať a správne, číslo vyjadrujúce koľkokrát 
 som sa toho chytil je nula. Ako moderátor som mal usmerniť improvizátorov v priestore tak, aby boli na kamerovom zázname v rozumnom uhle, 
