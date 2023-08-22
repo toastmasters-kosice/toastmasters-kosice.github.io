@@ -20,7 +20,7 @@ prebrať pár trikov od skúsenejších borcov. Moje druhé moderovanie som vní
 naladený a dokázal som to poslať ďalej. Avšak situácia sa zmenila na ďalšom stretnutí, keď malo dôjsť k moderovaniu 
 tretíkrát.
 
-![Interview](/img/bbc08427-31cf-419b-9f91-bb6744cf02cd.jpg)
+![Interview](/img/ach-ta-prostata-small.jpg)
 
 *zdroj obrázka:( https://www.channel4.com/programmes/embarrassing-bodies )*
 
