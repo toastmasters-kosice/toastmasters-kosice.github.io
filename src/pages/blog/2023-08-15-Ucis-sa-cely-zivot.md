@@ -45,7 +45,7 @@ tvoj icebreaker parťák. Šikovne vymyslené, stále si vybavujem celý rozhovo
 zadkom...už teraz si pre mňa hrdina 🤟.
 
 ![Interview](/img/dead-pool.jpg)
-*zdroj: https://the-take.com/read/deadpool-full-script-20th-century- fox *
+*zdroj: https://the-take.com/read/deadpool-full-script-20th-century-fox*
 
   Po predstavovačke prišiel čas na tvrdé jadro. Tým bola spleť prednášok a interaktívnych úloh. Priestor na prednášky nebol prehnane rozsiahly. Informačná časť síce
 neobsahovala žiadne novátorské myšlienky búrajúce základy spoločnosti, ale aspoň sme sa vyhli prípadnému upaľovaniu. Dostali sme solídne info o štruktúre TM od koreňa až
