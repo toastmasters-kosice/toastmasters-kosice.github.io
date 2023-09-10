@@ -11,7 +11,7 @@ tags:
   - Osobná skúsenosť
 ---
 
-*čítanie na 3 min*
+*(čítanie na 3 min)*
 
   Denne komunikuješ na viacerich úrovniach. Často obmedzenejšie ako by si chcel. A pri tom je toľko príležitostí. Jednu som využil a zapojil sa do TM (Toaustmasters). Po dvoch pripravených prejavoch a niekoľkých improvizáciach bola možnosť vyskúšať si moderovanie stretnutia. Prečo nie. Rozhodnutie padlo najprv na menšiu moderátorskú rolu, moderovanie improvizácií. 
 
