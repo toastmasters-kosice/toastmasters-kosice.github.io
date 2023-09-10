@@ -17,6 +17,9 @@ tags:
 V lete ide tak akosi všetko na úsporný režim, ale ten už končí. Posledné letné stretnutie v parku sme 
 si preto uctili nonšalantnou témou: Piesok v plavkách.
 
+*(zdroj obrázku v upútavke: https://www.braunys.sk/borat-plavky-mankini)*
+
+
 ![Interview](/img/beach-day-relaxation-small.jpg)
 
 *(zdroj: https://www.florida-dreams.com/have-a-perfect-beach-day-at-manatee-public-beach/*
@@ -56,6 +59,10 @@ Milé prekvapenie nám pripravila slečna, ktorá už párkrát prišla ako hos�
 improvizácii na tému: Telá zakopané na pláži vždy výjdu na svetlo božie, nás priviedla k slzám (smiechu).
 Kombinácia vtipu, kvapky nervozity a ženskej spontánnosti nekompromisne viedla k jedinému možnému
 výsledku- k vyhláseniu za najlepšiu improvizátorku stretnutia.
+
+![Interview](/img/goodbye-summer.jpg)
+
+*(zdroj: https://www.postermywall.com/index.php/art/template/1d4f506d490ee7d07e5cbfb5091b2d20/goodbye-summer-design-template)*
 
 Piesku v plavkách sme sa pozreli na zúbek vo viacerých rovinách. Od vŕzgania medzi polkami až po metafyzické
 poňatie odvrátenej strany leta, preto azda všetci uznáme, že téma bola spracovaná vyčerpávajúco. Ako sa na
