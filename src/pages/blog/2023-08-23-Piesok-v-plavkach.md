@@ -26,11 +26,11 @@ si preto uctili nonšalantnou témou: Piesok v plavkách.
 
 Účasť bola menšia, ako je tomu počas roka. Zúfalé situácie si vyžadujú zúfalé riešenia. Aby sme neubrali
 stretnutiu na kvalite, treba obsadiť všetky kvalitatívne roly(časomerač, strážca pozornosti, zberač
-slovnej vaty...). Nič  jednoduché, keď si väčšina členov vylyhuje pri mori, alebo je na safary v Tatrách.
+slovnej vaty...). Nič  jednoduché, keď si väčšina členov vylihuje pri mori, alebo je na safari v Tatrách.
 Nevadí, kde je vôľa, tam je cesta. Vôľa bola. Každý vyfasoval zo dve úlohy a bola aj cesta. Ja som moderoval,
 mal pripravený prejav a prevzal úlohu predsedajúceho. Až to začalo vyzerať ako One man show. Kde sa vzal tu
 sa vzal, zrazu tam aj Feri stál. Ako pravý rytier v jasnej zbroji ma odbremenil od tiaže predsedajúceho.
-(Aj Feri rád rozpráva, koniec koncov, na to chodíme na TM)  Privitál nás, decentne "zaflirtoval" s hosťami a
+(Aj Feri rád rozpráva, koniec koncov, na to chodíme na TM)  Privítal nás, decentne "zaflirtoval" s hosťami a
 poď ho na prejav. 
 
 
