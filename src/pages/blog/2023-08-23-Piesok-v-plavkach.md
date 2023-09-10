@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Piesok v plavkách...
 date: 2023-08-23
 featuredpost: false
-featuredimage: /img/NERD.jpg
+featuredimage: /img/NERD.jp
 description: >-
 tags:
   - Verejné vystupovanie
