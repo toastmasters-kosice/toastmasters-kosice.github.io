@@ -11,7 +11,7 @@ tags:
   - Osobná skúsenosť
 ---
 
-*čítanie na 4 min*
+*(čítanie na 4 min)*
 
   Okrem rozprávania sa v TM zameriavame aj na organizačné schopnosti. Rozprávačské sú prístupné ktorémukoľvek členovi,
   na organizačné sa potrebuješ dostať do vedenia klubu. Znie to náročnejšie, ako to v skutočnosti je. V podstate stačí,
