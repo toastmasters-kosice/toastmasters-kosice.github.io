@@ -33,7 +33,9 @@ sa vzal, zrazu tam aj Feri stál. Ako pravý rytier v jasnej zbroji ma odbremeni
 (Aj Feri rád rozpráva, koniec koncov, na to chodíme na TM)  Privitál nás, decentne "zaflirtoval" s hosťami a
 poď ho na prejav. 
 
+
 ![Interview](/img/IMG_Feri.jpg)
+
 
 Bol som zvedavý, ako to pôjde. V knižnici je človek "krytý", pričom v parku je to tak povediac
 .....In flagranti. Stojíš tam ako poleno a každý ťa vidí. Nabúchaný chlapík, čo si prišiel popri behu
@@ -53,16 +55,20 @@ inak to pôsobí umelo. A dôveryhodnosť je to, o čo ide. Podať názor, fakty
 vábivý, aby sa s ním pohrával v mysli. Ak chceš byť presvedčivý, mier na emócie. Pri tom musíš pôsobiť pekelne
 dôveryhodne. Viď. príklad  Mefistofeles, ktorý kúsok po kúsku spracovával Goetheho Fausta.
 
+
 ![Interview](/img/IMG_kolaz.jpg)
+
 
 Milé prekvapenie nám pripravila slečna, ktorá už párkrát prišla ako hosť. Svojim bravúrnym výkonom pri
 improvizácii na tému: Telá zakopané na pláži vždy výjdu na svetlo božie, nás priviedla k slzám (smiechu).
 Kombinácia vtipu, kvapky nervozity a ženskej spontánnosti nekompromisne viedla k jedinému možnému
 výsledku- k vyhláseniu za najlepšiu improvizátorku stretnutia.
 
+
 ![Interview](/img/goodbye-summer.jpg)
 
 *(zdroj: https://www.postermywall.com/index.php/art/template/1d4f506d490ee7d07e5cbfb5091b2d20/goodbye-summer-design-template)*
+
 
 Piesku v plavkách sme sa pozreli na zúbek vo viacerých rovinách. Od vŕzgania medzi polkami až po metafyzické
 poňatie odvrátenej strany leta, preto azda všetci uznáme, že téma bola spracovaná vyčerpávajúco. Ako sa na
