@@ -65,7 +65,7 @@ Kombinácia vtipu, kvapky nervozity a ženskej spontánnosti nekompromisne viedl
 výsledku- k vyhláseniu za najlepšiu improvizátorku stretnutia.
 
 
-Piesku v plavkách sme sa pozreli na zúbek vo viacerých rovinách. Od vŕzgania medzi polkami až po metafyzické
+Piesku v plavkách sme sa pozreli na zúbok vo viacerých rovinách. Od vŕzgania medzi polkami až po metafyzické
 poňatie odvrátenej strany leta, preto azda všetci uznáme, že téma bola spracovaná vyčerpávajúco. Ako sa na
 rozlúčku s letnými stretnutia patrí. NAjbližšie sa už stretneme v starej známej knižnici.
 
