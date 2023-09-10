@@ -65,11 +65,6 @@ Kombinácia vtipu, kvapky nervozity a ženskej spontánnosti nekompromisne viedl
 výsledku- k vyhláseniu za najlepšiu improvizátorku stretnutia.
 
 
-![Interview](/img/goodbye-summer.jpg)
-
-*(zdroj: https://www.postermywall.com/index.php/art/template/1d4f506d490ee7d07e5cbfb5091b2d20/goodbye-summer-design-template)*
-
-
 Piesku v plavkách sme sa pozreli na zúbek vo viacerých rovinách. Od vŕzgania medzi polkami až po metafyzické
 poňatie odvrátenej strany leta, preto azda všetci uznáme, že téma bola spracovaná vyčerpávajúco. Ako sa na
 rozlúčku s letnými stretnutia patrí. NAjbližšie sa už stretneme v starej známej knižnici.
