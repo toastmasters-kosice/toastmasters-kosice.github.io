@@ -17,7 +17,7 @@ tags:
 V lete ide tak akosi všetko na úsporný režim, ale ten už končí. Posledné letné stretnutie v parku sme 
 si preto uctili nonšalantnou témou: Piesok v plavkách.
 
-Účasť bola menšia,ako je tomu počas roka. Zúfalé situácie si vyžadujú zúfalé riešenia. Aby sme neubrali
+Účasť bola menšia, ako je tomu počas roka. Zúfalé situácie si vyžadujú zúfalé riešenia. Aby sme neubrali
 stretnutiu na kvalite, treba obsadiť všetky kvalitatívne roly(časomerač, strážca pozornosti, zberač
 slovnej vaty...). Nič  jednoduché, keď si väčšina členov vylyhuje pri mori, alebo je na safary v Tatrách.
 Nevadí, kde je vôľa, tam je cesta. Vôľa bola. Každý vyfasoval zo dve úlohy a bola aj cesta. Ja som moderoval,
