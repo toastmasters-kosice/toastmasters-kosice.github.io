@@ -11,7 +11,7 @@ tags:
   - Osobná skúsenosť
 ---
 
-*čítanie na 5 min*
+*(čítanie na 5 min)*
 
   Moderátor do značnej miery udáva tón stretnutia. Preto som strávil nejaké večery na Youtube a hľadal inšpiráciu 
 na kanáloch ako TEDx a Toustmasters International. Prelustroval som aj Stand Up komikov z našej i zahraničnej scény. 
