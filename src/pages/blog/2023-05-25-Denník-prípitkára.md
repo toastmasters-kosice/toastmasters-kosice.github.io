@@ -49,9 +49,6 @@ budem moderátor stretnutia, prejav vynechám a v denníku sa povenujem rozboru 
 budú chronologicky zoradené, aby bolo vidieť, ako schopnosti prezentácie a vystupovania postupom času
 (ne)rastú. 
 
-![Interview](/img/unhappy-redhead-woman-makes-little-small.jpg)
-
-
 # Menej je viac ... niekedy
 
 Určite nečakaj rozpisovanie na 300 riadkov. Zopár trefných pripomienok, úspechy, nezdary, nervozita
@@ -59,6 +56,8 @@ na pódiu. Postrehy čo bolo zlé a prečo. Skúšanie tipov z kníh či interne
 Ak bude záujem o ucelené články vysokej informačnej úrovne, nevravím nie. Ale bude to mimo tejto
 rubriky. Ak má byť text nabitý informáciami, musí byť samozrejme podstatne rozsiahlejší. A ak sa
 rozpíšem o každom stretnutí na 15 minút, nikto to čítať nebude. 
+
+![Interview](/img/unhappy-redhead-woman-makes-little-small.jpg)
 
 Budem sa snažiť o čo najväčši počet prejavov (ideálne každé stretnutie), lebo jeden prejav za tri
 mesiace nemá význam. Ak má byť naša mierka valídna, musí byť frekvencia čo najvyššia. Možno to osloví
