@@ -52,7 +52,7 @@ budú chronologicky zoradené, aby bolo vidieť, ako schopnosti prezentácie a v
 ![Interview](/img/unhappy-redhead-woman-makes-little-small.jpg)
 
 
-# Menej je viac...niekedy
+# Menej je viac ... niekedy
 
 Určite nečakaj rozpisovanie na 300 riadkov. Zopár trefných pripomienok, úspechy, nezdary, nervozita
 na pódiu. Postrehy čo bolo zlé a prečo. Skúšanie tipov z kníh či internetu a spätná väzba či fungujú.
