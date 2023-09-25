@@ -13,6 +13,8 @@ tags:
 
 *(čítanie na 4 min)*
 
+# Organizuj sa!!!
+
   Okrem rozprávania sa v TM zameriavame aj na organizačné schopnosti. Rozprávačské sú prístupné ktorémukoľvek členovi,
   na organizačné sa potrebuješ dostať do vedenia klubu. Znie to náročnejšie, ako to v skutočnosti je. V podstate stačí,
   ak máš veľa času navyše (nepreháňam, až teraz prichádzam na to kooooooooľko času to zaberá)a úprimný záujem o zveľadenie
@@ -28,6 +30,9 @@ tags:
 
 *zdroj: https://www.teachingexpertise.com/classroom-ideas/funny-school-signs/*
 
+
+# "Výlet 2x ročne"
+
   Dvakrát ročne sa konajú školenia pre vedúcich členov. Tento rok sa prvé školenie konalo piateho augusta v Bratislave.
   Sme jediný klub na východnom Slovensku, preto bola cesta čosi ako za siedmimi horami, za siedmimi dolami. Ale nič, čo
   by naše odhodlané duše dobrodruhov nezvládli. Školenie začalo o pol desiatej a vydržali sme...až do konca. Do pol štvrtej.
@@ -42,6 +47,8 @@ tags:
   zapamätáš. Túto myšlienku ďalej rozvinul kooperatívny režim, preto sa úlohy riešili v skupinách. Celé to bolo nastavené tak,
   aby si mal možnosť spoznať a spolupracovať s čo najväčším počtom ľudí. Zúčastnilo sa niečo vyše 30 vedúcich členov. Zastúpenie
   mali tri kluby z Bratislavy, ďalej tam bola Nitra, Žilina, Trenčín a samozrejme my košičania.  
+
+# A takto to vyzerá
 
   Školenie sa konalo v kaviarni neďaleko centra. Po privítaní nasledoval icebreaker, aby sme sa čo to o sebe dozvedeli.
 Nepredstavoval si sa sám, ale úlohou bolo nájsť človeka ktorého nepoznáš. Dostali ste päť minút a potom si znova každý sadol na
@@ -62,16 +69,20 @@ nikdy nič nepokazilo. 🙃
 
 ![Interview](/img/man-with-awkward-smile-small.jpg)
 *zdroj: https://burst.shopify.com/photos/man-with-awkward-smile*
-    
-  Prínosom bol pre mňa bodovací systém. Tieto informácie som prebehol pri vstupe do klubu, no odvtedy sa mierne vytratili
-  takpovediac...do neznáma. Pred očami sa postupne vynárali možnosti, ako posunúť klub vpred. Cez prestávku, ktorá po prednáške
-  nasledovala bolo vidieť, že sa tento efekt dostavil aj u ďalších. Spontánne sa vytvárali skupinky debatujúce o krokoch na
-  najbližších stretnutiach. Priviedlo ma to k uvedomeniu, že to chce ešte niečo viac. Ako nové vedenie klubu potrebujeme vytvoriť 
-  dlhodobú stratégiu pre čas, ktorý budeme klub viesť. Poeticky povedané, stratégiu ktorá nás povedie hmlou neistej budúcnosti,
-  vo vodách dosiaľ neprebádaných. O tom si môžeme povedať viac po najbližšej porade (ak to nebude internou informáciou nevhodnou
-  pre zverejnenie 🫣). Druhá časť prednášok mala skôr motivačný charakter. Myslím, že namotivovaných nás tam bolo dosť, no netreba
-  hádzať flintu do žita, kúsok priestoru sa vždy nájde. Zaujala jedna prakticky ladená myšlienka, alebo... krátky návod? Ten tu
-  však nebudem rozpisovať (vieš ako...prezradenie Know how sa možno aj trestá. Dnes už človek nikdy nevie 😵).
+
+# Čo ma zaujalo
+
+Prínosom bol pre mňa bodovací systém. Tieto informácie som prebehol pri vstupe do klubu, no odvtedy sa mierne vytratili
+takpovediac...do neznáma. Pred očami sa postupne vynárali možnosti, ako posunúť klub vpred. Cez prestávku, ktorá po prednáške
+nasledovala bolo vidieť, že sa tento efekt dostavil aj u ďalších. Spontánne sa vytvárali skupinky debatujúce o krokoch na
+najbližších stretnutiach. Priviedlo ma to k uvedomeniu, že to chce ešte niečo viac. Ako nové vedenie klubu potrebujeme vytvoriť 
+dlhodobú stratégiu pre čas, ktorý budeme klub viesť. Poeticky povedané, stratégiu ktorá nás povedie hmlou neistej budúcnosti,
+vo vodách dosiaľ neprebádaných. O tom si môžeme povedať viac po najbližšej porade (ak to nebude internou informáciou nevhodnou
+pre zverejnenie 🫣). Druhá časť prednášok mala skôr motivačný charakter. Myslím, že namotivovaných nás tam bolo dosť, no netreba
+hádzať flintu do žita, kúsok priestoru sa vždy nájde. Zaujala jedna prakticky ladená myšlienka, alebo... krátky návod? Ten tu
+však nebudem rozpisovať (vieš ako...prezradenie Know how sa možno aj trestá. Dnes už človek nikdy nevie 😵).
+
+# Čosi na záver
 
   Interaktívna časť zožala úspech na celej čiare. Nápad rozdeliť účastníkov podľa toho, akú funkciu zastávajú bol perfektný.
 Jablká s jablkami, hrušky s hruškami. Vďaka tomu všetci riešili úlohy šité na mieru podľa svojej funkcie. Život nás naučil 
