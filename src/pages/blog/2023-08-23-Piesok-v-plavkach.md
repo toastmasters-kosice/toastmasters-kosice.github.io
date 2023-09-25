@@ -24,6 +24,8 @@ si preto uctili nonšalantnou témou: Piesok v plavkách.
 
 *(zdroj: https://www.florida-dreams.com/have-a-perfect-beach-day-at-manatee-public-beach/*
 
+# Zúfalosť, z núdze cnosť
+
 Účasť bola menšia, ako je tomu počas roka. Zúfalé situácie si vyžadujú zúfalé riešenia. Aby sme neubrali
 stretnutiu na kvalite, treba obsadiť všetky kvalitatívne roly(časomerač, strážca pozornosti, zberač
 slovnej vaty...). Nič  jednoduché, keď si väčšina členov vylihuje pri mori, alebo je na safari v Tatrách.
@@ -36,6 +38,7 @@ poď ho na prejav.
 
 ![Interview](/img/IMG_Feri.jpg)
 
+# Ide to aj von
 
 Bol som zvedavý, ako to pôjde. V knižnici je človek "krytý", pričom v parku je to tak povediac
 .....In flagranti. Stojíš tam ako poleno a každý ťa vidí. Nabúchaný chlapík, čo si prišiel popri behu
@@ -58,6 +61,7 @@ dôveryhodne. Viď. príklad  Mefistofeles, ktorý kúsok po kúsku spracovával
 
 ![Interview](/img/IMG_kolaz.jpg)
 
+# Zažiarila hviezdička
 
 Milé prekvapenie nám pripravila slečna, ktorá už párkrát prišla ako hosť. Svojim bravúrnym výkonom pri
 improvizácii na tému: Telá zakopané na pláži vždy výjdu na svetlo božie, nás priviedla k slzám (smiechu).
