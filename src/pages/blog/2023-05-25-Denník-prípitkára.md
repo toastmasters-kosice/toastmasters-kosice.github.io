@@ -19,7 +19,7 @@ anglického Toastmasters. Už si si stihol domyslieť, že som sa k tejto skupin
 prišiel obzrieť, dostal som informácie z prvej ruky, ale stále mi to bolo akosi málo. Zišla by sa
 nejaká sonda, ktorá dokáže chronologicky ukázať posun v schopnosti vystupovania. Aby mal človek
 z vonku možnosť urobiť si predstavu, aké pokroky môže od členstva v TM  reálne očakávať po mesiaci,
-dvoch, polroku ... A tak sa zrodil nápad rubriky Denník prípitkára.
+dvoch, polroku ... A tak sa zrodil nápad rubriky Denník prípitkára. 
 
 *(zdroj obrázku v upútavke: https://www.atlasobscura.com/articles/best-drinking-toasts-and-cheers)*
 
@@ -63,6 +63,7 @@ Budem sa snažiť o čo najväčši počet prejavov (ideálne každé stretnutie
 mesiace nemá význam. Ak má byť naša mierka valídna, musí byť frekvencia čo najvyššia. Možno to osloví
 aj iných členov a budú chcieť zdieľať vlastné skúsenosti. V TM sa učíme veci za pochodu a tento blog k
 tomu patrí. Preto sa aj jeho podoba bude vyvíjať postupne. Zatiaľ to bude o dojmoch, aby si vedel, čím
-si bude treba prejsť. Uvidíme aká bude odozva a od toho sa odvynie ďalší postup.
+si bude treba prejsť. Uvidíme aká bude odozva a od toho sa odvynie ďalší postup. Články tejto rubriky
+budú v názve označené v zátvorke DP a poradové čislo. Napríklad (DP2.)
 
 *príspevkom Ti deň obohatil: chlapík od PR* 
