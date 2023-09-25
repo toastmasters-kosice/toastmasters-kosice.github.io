@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Učíš sa celý život...
+title: (DP3) Učíš sa celý život...
 date: 2023-08-15
 featuredpost: false
 featuredimage: /img/NERD.jpg
