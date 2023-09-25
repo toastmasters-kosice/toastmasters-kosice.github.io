@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: (DP1)Moderoval som TM - aké to bolo
+title: (DP1) Moderoval som TM - aké to bolo
 date: 2023-06-30
 featuredpost: false
 featuredimage: /img/pexels-matheus-bertelli-3321796.jpg
