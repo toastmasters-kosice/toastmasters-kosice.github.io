@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Piesok v plavkách...
+title: (DP4) Piesok v plavkách...
 date: 2023-08-23
 featuredpost: false
 featuredimage: /img/s-l500.png
