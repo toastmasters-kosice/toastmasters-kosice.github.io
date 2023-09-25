@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: (DP5) Na vrchole...
-date: 2023-08-23
+date: 2023-09-20
 featuredpost: false
 featuredimage: /img/s-l500.png
 description: >-
@@ -11,11 +11,10 @@ tags:
   - Osobná skúsenosť
 ---
 
-*(čítanie na 3 min)*
+*(čítanie na 4 min)*
 
 
-V lete ide tak akosi všetko na úsporný režim, ale ten už končí. Posledné letné stretnutie v parku sme 
-si preto uctili nonšalantnou témou: Piesok v plavkách.
+
 
 *(zdroj obrázku v upútavke: https://www.braunys.sk/borat-plavky-mankini)*
 
@@ -66,11 +65,27 @@ vizuálne, alebo pocitové predstavy toho, o čom rozprávam. Treba počkať na 
 vyvodiť záver. Náhoda (a nedostatok času) chceli, že články o 4. a 5. prejave píšem viac menej na raz. A tu sa dostávam k
 tomu, prečo moje nadšenie netrvalo dlho.
 
-# Znova kúsok šattistiky
+# Znova kúsok štatistiky
 
-Aj keď to pri rulete tak nevyzerá, štatistická krivka neklame. Ak máme stav, ktorý je nadpiemerný (môj výkon pri prejave č. 4) s najväčšou pravdepodobnosťou bude nasledujúci výkon pod priemerom. Za prvé, je ťažšie ho dosiahnúť, lebo sa treba dotiahnúť minimálne na predchádzajúci nadpriemer. A za druhé, bežný je priemer. Nadpriemer je výnimka, ktorej do značnej miery pomáhajú rôzne okolnosti. Môj nadpriemerný výkon vôbec nemusí záležať od mojich schopností do takej miery ako by si jeden myslel. Dokonca podľa istej teórie to bude výsledkom súhrnu šťastných okolností. Uvediem príklad, dobre som sa vyspal a počas dňa sa mi podarilo niečo čo ma potešilo. Cestou som ma križovatkách chytil zelenú vlnu
-a voľné miesto na parkovanie som našiel hneď pri vchode. K tomu pripočítajme, že som mal predchádzajúcu noc úžasný milostný zážitok, alebo ešte lepšie, tretina publika mala predchádzajúcu noc (alebo počas obednajšej pauzy)perfektný sex. A "vualá" nadpriemerný výkon je na svete. Takéto priaznivé okolnosti však nastanú len výnimočne. Preto s veľkou pravdepodobnosťou bude nasledovať výkon podpriemerný. A vesmírna rovnováha bude zachovaná. Môj piaty prejav je toho dôkazom.
+Aj keď to pri rulete tak nevyzerá, štatistická krivka neklame. Ak máme stav, ktorý je nadpriemerný (môj výkon pri prejave
+č. 4) s najväčšou pravdepodobnosťou bude nasledujúci výkon pod priemerom. Za prvé, je ťažšie ho dosiahnúť. Treba sa
+dotiahnúť minimálne na predchádzajúci nadpriemer. A za druhé, bežný je priemer. Nadpriemer je výnimka, ktorej do značnej
+miery môžu pomôcť rôzne okolnosti. Môj nadpriemerný výkon nemusí záležať od mojich schopností do takej miery, ako by si
+jeden myslel. Dokonca, podľa istej teórie to bude výsledkom súhrnu šťastných okolností. 
 
-podnadpis
+# Okolnosti, okolnosti
 
-Ale aby som nikomu nebral vietor z plachiet. Snaha prináša nadpriemerné výkony aj bez šťastia. To sa pozná podľa toho, že k nim dochádza neštandardne často. Napríklad u mňa....to tak zatiaľ nie je. Ale keď sa raz za čas na teba tá korpulentná dáma menom Šťastena necudne usmeje, tiež to nie je zlé.
+Uvediem príklad. Dobre som sa
+vyspal a počas dňa sa podarilo niečo, čo ma potešilo. Cestou na stretnutie som chytil zelenú vlnu a voľné miesto na
+parkovanie bolo ihneď pri vchode. K tomu pripočítajme, že som mal predchádzajúcu noc úžasný milostný zážitok, alebo, ešte
+lepšie, tretina publika mala predchádzajúcu noc (alebo počas obednajšej pauzy)perfektný sex. A "vualá", nadpriemerný výkon
+je na svete. Takéto priaznivé okolnosti však nastanú len výnimočne. Preto s veľkou pravdepodobnosťou bude nasledovať výkon
+podpriemerný. A vesmírna rovnováha ostáva zachovaná. Môj piaty prejav je toho dôkazom.
+
+# Pohladenie korpulentnej dámy
+
+Ale aby som nikomu nebral vietor z plachiet. Snaha prináša nadpriemerné výkony aj bez šťastia. To sa pozná podľa toho, že k
+nim dochádza neštandardne často. Napríklad u mňa....to tak zatiaľ nie je. Ale keď sa raz za čas na teba tá korpulentná dáma,
+menom Šťastena necudne usmeje, tiež to nie je zlé.
+
+*príspevkom Ti deň obohatil: chlapík od PR*
