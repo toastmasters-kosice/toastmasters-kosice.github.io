@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Denník prípitkára
+title: (DP) Denník prípitkára
 date: 2023-05-25
 featuredpost: false
 featuredimage: /img/Martini_v3-1200.jpg
