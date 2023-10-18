@@ -41,11 +41,12 @@ Okrem štandardnej agendy som urobil aj vlastnú, kde boli rozpísané informác
 Ale všimol som si, že s doskami v ruke to nie je terno. Na prvých stretnutiach som chcel mať niečo v ruke, aby som tam nestál
 ako puk. Myslel som, že s doskami to bude jednoduchšie (psychologická bariera medzi tebou a publikom pri nervozite poskytuje
 aspoň akú takú útechu že?) a efekt bude elegantnejší aj na oko. Z omylu ma vyviedol hneď prvý záznam. Nevyzerá to dobre, profi a
-ani náhodou elegantne. Otázka teraz znie, ako nevyzerať ako puk s doskami? Odpoveď zatiaľ nemám. Chce to skúšať, pozerať záznamy
-a vybrať čo bude najschopnejšie. A možno stačí len cvik. Aj s prázdnymi rukami to bolo nemotorné a po pár týždňoch to nabralo
-správny smer. Objektívne ale dosky určite prekážajú pri gestách. Uvidíme.
+ani náhodou elegantne. Otázka teraz znie, ako nevyzerať ako puk s doskami? 
 
 ![Interview](/img/surprised-plump-man-stares-says-wow.jpg)
+
+Odpoveď zatiaľ nemám. Chce to skúšať, pozerať záznamy a vybrať čo bude najschopnejšie. A možno stačí len cvik. Aj s prázdnymi
+rukami to bolo nemotorné a po pár týždňoch to nabralo správny smer. Objektívne ale dosky určite prekážajú pri gestách. Uvidíme.
 
 Ako som už spomenul, improvizácie viedol Feri a podarilo sa. Témou stretnutia bola stužková. Preto sme si prešli situáciami ako
 pozvať kočku na stužkovu, ako jednej nežne povedať, že ideme s inou, ďakovné príhovory, hovorné poďakovania a tak ďalej. Všetci
