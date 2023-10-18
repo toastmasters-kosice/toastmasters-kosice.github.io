@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: (DP6) Štyria statoční
+title: (DP7) Štyria statoční
 date: 2023-10-13
 featuredpost: false
 featuredimage: /img/4_statocni.jpg
