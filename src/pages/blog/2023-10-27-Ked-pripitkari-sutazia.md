@@ -18,8 +18,8 @@ tags:
 Nie je tomu tak dávno, čo prípitkári zorganizovali súťaž v čom inom, ako v rečnení. A nie je to tak zlý nápad, nahodiť k tomu
 aj nejaké vyjadrenie na východe. Kto, kde, s kým, kedy a prečo? Info ktoré by si čakal pred konaním podujatia, nie týždeň po ňom
 že? Ale niekto musí vyčnievať z radu. Dajme ale veci na správnu mieru a čo to si o tom povedzme. Celoslovenská súťaž v rečnení
-pod záštitou Toastmasters sa konala 21 októbra v Trnave, vo fešácky vyšperkovanej Aule UCM. Témou súťaže boli humorné prejavy v
-slovenskom a anglickom jazyku. My "košičania" nie sme vtipní ani v jednom z nich. Žartujem. Náš suchý  humor dostáva do úzkych nie
+pod záštitou Toastmasters sa konala 21. októbra v Trnave, vo fešácky vyšperkovanej Aule UCM. Témou súťaže boli humorné prejavy v
+slovenskom a anglickom jazyku. My "košičania" nie sme vtipní ani v jednom z nich.... Žartujem. Náš suchý humor dostáva do úzkych nie
 jedného anglického gentlemana. A ak nie, tak američana, rusa a slováka určite. Pravdou však ostáva, že pod náporom náhody, osudu a
 životných pádov sme sa zúčastnili iba nesúťažne. Sám som v sebe nenašiel odvahu vytrhnúť pochodeň košických prípitkárov, rozraziť
 brány Trnavy a s piesňou na perách rozpaliť ohňom spravodlivých tváre súťažiacich bratov a sestier. Tento ročník sme si skromne
@@ -31,7 +31,7 @@ tak ten, pre víťazov improvizácií.
 
 # A čo ešte?
 
-Podujatia sa zúčastnilo okolo 30 ľudí (žiaľ, presne počítam len do 25). Aj tí, ktorí tu boli nesúťažne, si prišli na svoje. Hosťom
+Podujatia sa zúčastnilo okolo 30 ľudí (presne počítam len do 25). Aj tí, ktorí tu boli nesúťažne, si prišli na svoje. Hosťom
 bol Peťo Magurský. Môžeš ho poznať ako šikovného moderátora, komentátora a tak ďalej. Jednoducho chlapík, ktorý vie čo s jazykom v
 kade-akom prostredí a situácii. Priestor sme využili na plno. Z jeho rád a postupov sme vykresali divotvornú osličku (len pre istotu:
 kameň na brúsenie kosy) hodnú kosy samotného prievozníka Chárona (alebo to bolo veslo, čo mal v ruke???). V každom prípade sú naše
