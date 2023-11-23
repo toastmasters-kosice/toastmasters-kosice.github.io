@@ -1,0 +1,24 @@
+templateKey: blog-post
+title: Prípitkári pod dozorom
+date: 2023-11-04
+featuredpost: false
+featuredimage: /img/security-cameras.jpg
+description: >-
+tags:
+  - Verejné vystupovanie
+  - Rečníctvo
+  - Osobná skúsenosť
+---
+
+*(čítanie na 4 min)*
+
+# Návštevníci
+
+Toto stretnutie rozvírilo vody našich klubových návykov. Prišli k nám dvaja členovia iných klubov. Je dobrým zvykom
+(škoda, že nie častým), že členovia z času na čas z vlastnej iniciatívy navštívia stretnutia ďalších klubov. Od nás
+tak zatiaľ stihol urobiť iba Vlado. Budúci rok určite kopneme do vrtule viacerí (výlet na západ príde vždy vhod).
+Takto sa k nám pridal Peťo (Toastmasters  Trnava), ale u Zuzky to bolo trochu inak. Tá je area directorkou, k čomu
+patria služobné cesty po Slovensku. Na nich si "preklepne" jednotlivé kluby. Ako sa im darí, s čím by potrebovali
+pomôcť atď.
+
+![Interview](/img/img-kolaz10.png)
