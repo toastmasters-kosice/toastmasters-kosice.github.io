@@ -12,7 +12,7 @@ tags:
 
 *(čítanie na 5 min)*
 
-# Škrt cez rozpopčet
+# Škrt cez rozpočet
 
 Zima dorazila aj k nám do Té Emka. Ako som na to prišiel? Tretina členov dala na poslednú chvíľu echo,
 že nedorazia....zo zdravotných dôvodov. Ale klídek, máme pre nich pochopenie. Sám som posledných desať
