@@ -1,3 +1,4 @@
+---
 templateKey: blog-post
 title: Viva la revolución
 date: 2023-11-24
