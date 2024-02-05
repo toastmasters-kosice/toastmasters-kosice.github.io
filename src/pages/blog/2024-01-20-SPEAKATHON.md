@@ -22,7 +22,7 @@ kvantitatívnych rôl, kde sa dalo. Perfektná skúsenosť a kopa bonusov, ktor�
 no píšem až teraz. Z lenivosti sem tam padne niečo dobré. Píšem tak neskoro, až som stihol prelustrovať spracovaný záznam. A chvááááááááála
 Bohu. Postrehol som kopu vecí, ktoré mi počas stretnutia unikli.
 
-![Interview](/img/IMG_2023-11-22-Feri.jpg)
+![Interview](/)
 
 # Staviame na variabilite
 
@@ -33,8 +33,7 @@ hlboké zážitky.
 
 ![Interview](/)
 
-
-![Interview](/img/IMG_2023-11-22-Trung.jpg)
+![Interview](/)
 
 # ...pokračujeme
 
@@ -42,29 +41,34 @@ hlboké zážitky.
 komunikačnom štýle. Nie som si istý, či stihol všetko čo chcel, ale v každom prípade nám sú jasné dve veci. Nemá rád korporát. A pripravuje
 podujatie mimo bubliny TM.
 
+![Interview](/)
+
 Po ňom nasledoval Samo. S vervou sa pustil do drsnej kritiky mediálne známeho a pomerne často diskutovaného psychológa J. Petersona. Pravdou je,
 že mu do oka v skutku nepadol. Na paškál si vzal ako jeho knihu o 12 pravidlách pre život, tak názory odprezentované na Youtube. Poniektorých nás
 zaskočil vyhraneným názorom aj na stálicu psychologického neba C. G. Junga. Koľko ľudí, toľko chutí, chodíme sem práve preto, aby sme sa prejavili.
 A čo si budeme vravieť, vtom je Samo ako ryba vo vode.
 
-![Interview](/img/IMG_2023-11-22-David.png)
-
-
+![Interview](/)
 
 # Polovica za nami
 
  František sa v projekte popasoval s vlastným komunikačným štýlom. Keď Ti v teste výjdu na prvom mieste tri štýly zo štyroch, nie je jednoduché to
 ustáť. Poskladať z čriepkov mozaiku vlastnej osobnosti je beh na dlhú trať. Feri má prvé kilometre za sebou.........až čas ukáže, či trafil smer 😄
 
+![Interview](/)
+
 V poradí piatym rečníkom je Miro. Kladie otázku, ktorá nedá spať nejednému z nás: Sú tri hodiny dostatočnou rezervou stihnúť lietadlo v Paríži? Nedá
 mi neukázať na fičúrsky kúsok rečníka. Využil finesu, o ktorej som sa dozvedel len nedávno. V prvej vete nám opísal výsek záverečnej scény jeho
 príbehu. Bez akýchkoľvek súvislostí. Rečníci tento prvok používaju pre "navnadenie " poslucháča. Mozog totiž prahne po kauzalitách. Ak
 dostane časť informácie, chce ho vložiť do kontextu. Preto naň poslušne čaká. A kontext nám Miro pomaly kúsok po kúsku dávkoval.
 
+![Interview](/)
+
 Olívia vyžmýkala čas do poslednej sekundy, aby nám podala pravdivé svedectvo o číslach. 42 naozaj nie je odpoveďou na otázky života a smrti. Minimálne
 u nej to je "na tuty" 71. Príbeh zo života s filmovým (nie najšťastnejším)koncom (no tie sa predávajú najlepšie 😉). Pre viac detailov dávame k
 dispozícii (pre členov klubu) video záznam stretnutia, odkaz nájdeš na Discorte.
 
+![Interview](/)
 
 # Typy pre teba
 
@@ -85,6 +89,6 @@ na prvej schôdzke miesto očného kontaktu, pristúpime k stoličke a pár sek�
 a parádnu vetičku na úvod, no prvý dojem už je ... vieme kde. To isté platí o odchode z pódia. Často sme pri vracaní mikrofónu chrbtom k publiku, alebo
 odchádzame s pohǎdom upreným do zeme. Odporúčam pozrieť si tieto pasáže na zázname. Minimálne ja som to doteraz podceňoval. Sledovaním rečníckych
 vystúpení TED X mi to ale postupne začalo dochádzať. Dodáva (uberá) to punc profesionality bez toho, aby sme vôbec otvorili ústa. A všetci vieme akú
-úlohu zohráva vo vystúpení
+úlohu zohráva vo vystúpení neverbálna komunikácia.
 
 *príspevkom Ti deň okorenil Chlapík od PR*
