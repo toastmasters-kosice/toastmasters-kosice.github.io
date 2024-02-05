@@ -31,7 +31,7 @@ základ máme dobrý). Dušan nám slovami, gestami, očami, nohami a kadečím 
 medicínu, o dňoch a nociach bez jedla a spánku mimo civilizácie. Podelil sa s nami o obavy, rešpekt pocity, pocity, pocity..............a
 hlboké zážitky.
 
-![Interview](/img/IMG_2023-11-22-Dusan.jpg)
+![Interview](/)
 
 
 ![Interview](/img/IMG_2023-11-22-Trung.jpg)
