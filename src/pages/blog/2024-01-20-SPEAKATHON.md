@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 42 - odpoveď na otázku života a smrti?
 date: 2024-01-20
 featuredpost: false
-featuredimage: /img/revolution.jpg
+featuredimage: /
 description: >-
 tags:
   - Verejné vystupovanie
