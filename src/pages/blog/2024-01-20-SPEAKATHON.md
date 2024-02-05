@@ -58,15 +58,15 @@ ustáť. Poskladať z čriepkov mozaiku vlastnej osobnosti je beh na dlhú trať
 ![Interview](/)
 
 V poradí piatym rečníkom je Miro. Kladie otázku, ktorá nedá spať nejednému z nás: Sú tri hodiny dostatočnou rezervou stihnúť lietadlo v Paríži? Nedá
-mi neukázať na fičúrsky kúsok rečníka. Využil finesu, o ktorej som sa dozvedel len nedávno. V prvej vete nám opísal výsek záverečnej scény jeho
-príbehu. Bez akýchkoľvek súvislostí. Rečníci tento prvok používaju pre "navnadenie " poslucháča. Mozog totiž prahne po kauzalitách. Ak
-dostane časť informácie, chce ho vložiť do kontextu. Preto naň poslušne čaká. A kontext nám Miro pomaly kúsok po kúsku dávkoval.
+mi neukázať na fičúrsky kúsok rečníka. Využil finesu, o ktorej som sa dozvedel len nedávno. V prvej vete nám opísal výsek záverečnej scény jeho príbehu.
+Bez akýchkoľvek súvislostí. Rečníci tento prvok používaju pre "navnadenie " poslucháča. Mozog totiž prahne po kauzalitách. Ak dostane časť informácie,
+chce ho vložiť do kontextu. Preto naň poslušne čaká. A kontext nám Miro pomaly, kúsok po kúsku dávkoval.
 
 ![Interview](/)
 
 Olívia vyžmýkala čas do poslednej sekundy, aby nám podala pravdivé svedectvo o číslach. 42 naozaj nie je odpoveďou na otázky života a smrti. Minimálne
-u nej to je "na tuty" 71. Príbeh zo života s filmovým (nie najšťastnejším)koncom (no tie sa predávajú najlepšie 😉). Pre viac detailov dávame k
-dispozícii (pre členov klubu) video záznam stretnutia, odkaz nájdeš na Discorte.
+u nej to je "na tuty" 71. Príbeh zo života s filmovým (nie najšťastnejším) koncom (no tie sa predávajú najlepšie 😉). Pre viac detailov dávame k
+dispozícii (pre členov klubu) videozáznam stretnutia, odkaz nájdeš na Discorte.
 
 ![Interview](/)
 
@@ -82,13 +82,12 @@ Problém je, keď máme čosi v rukách preto, že to naozaj pri prezentácii (p
 
 # Čerešnička na záver
 
-Naozaj čerešničku, lebo náprava je jednoduchá a výsledný efekt obrovský. Takmer všetci zabúdame (ja zakaždým), že komunikácia s publikom začína nie
+Naozaj čerešničku. Náprava je jednoduchá a výsledný efekt obrovský. Takmer všetci zabúdame (ja zakaždým), že komunikácia s publikom začína nie
 prvým slovom, ale v okamihu, kedy sa dostaneme do zorného poľa. Napríklad obyčajný mikrofón. Každý z nás sa sto percentne sústredí na jeho pripnutie
-a pozerá pri tom do zeme, na mikrofón, všade len nie na publikum. Pri tom pohľad do publika je prvým krokom komunikácie medzi nami. Je to rovnaké akoby
-na prvej schôdzke miesto očného kontaktu, pristúpime k stoličke a pár sekúnd si ju obzeráme aby sme si sadli pohodlne. Až konečne sedíme, vyčaríme úsmev
-a parádnu vetičku na úvod, no prvý dojem už je ... vieme kde. To isté platí o odchode z pódia. Často sme pri vracaní mikrofónu chrbtom k publiku, alebo
-odchádzame s pohǎdom upreným do zeme. Odporúčam pozrieť si tieto pasáže na zázname. Minimálne ja som to doteraz podceňoval. Sledovaním rečníckych
-vystúpení TED X mi to ale postupne začalo dochádzať. Dodáva (uberá) to punc profesionality bez toho, aby sme vôbec otvorili ústa. A všetci vieme akú
-úlohu zohráva vo vystúpení neverbálna komunikácia.
+a pozerá pri tom do zeme, na mikrofón, všade len nie na publikum. Pri tom pohľad do publika je prvým krokom komunikácie. Je to akoby na prvej schôdzke
+miesto očného kontaktu, pristúpime k stoličke a pár sekúnd si ju obzeráme, aby sme si sadli pohodlne. Konečne sedíme, úsmev a parádna vetička na úvod,
+no prvý dojem je ... vieme kde. To isté platí o odchode z pódia. Často sme pri vracaní mikrofónu chrbtom k publiku, alebo odchádzame s pohľadom upreným
+do zeme. Odporúčam pozrieť si tieto pasáže na zázname. Minimálne ja som to doteraz podceňoval. Sledovaním rečníckych vystúpení TED X mi to ale postupne
+začalo dochádzať. Dodáva (uberá) to punc profesionality bez toho, aby sme vôbec otvorili ústa. Vieme akú úlohu zohráva vo vystúpení neverbálna komunikácia.
 
 *príspevkom Ti deň okorenil Chlapík od PR*
