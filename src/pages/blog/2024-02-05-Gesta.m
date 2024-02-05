@@ -15,18 +15,25 @@ tags:
 
 # Minúta ticha
 
-Venujme minútku ticha naším drahým zosnulým gestám. Takto môžeme zhrnúť prácu s dvoma z našich údov- rukami. Dobre dobre. Je tam pokrok. Nevravím, že
-nie. Ale stále je to bieda. Nie sme v divadle, ale nikto mi z hlavy nevytrieska, že istý "divadelný facelift" by nám predsa len bodol. Načo? Pre oživenie.
-Pre vtiahnutie, pre radosť, udržanie pozornosti a pre túúúúúú "prdel" ktorú to so sebou prináša. Naozaj. Občas pri tréningu popustím uzdu zmyslu pre drámu
-a rozšafnými gestami sa rozhadzujem po celej predsieni (inde veľké zrkadlo nemám). A má to zmysel.
+Venujme minútku ticha naším drahým zosnulým gestám. Takto môžeme zhrnúť prácu s dvoma z našich údov- rukami. Dobre dobre. Je tam pokrok.
+Nevravím, že nie. Ale stále je to bieda. Nie sme v divadle, ale nikto mi z hlavy nevytrieska, že istý "divadelný facelift" by nám predsa
+len bodol. Načo? Pre oživenie. Pre vtiahnutie, pre radosť, udržanie pozornosti a pre túúúúúú "prdel" ktorú to so sebou prináša. Naozaj.
+Občas pri tréningu popustím uzdu zmyslu pre drámu a rozšafnými gestami sa rozhadzujem po celej predsieni (inde veľké zrkadlo nemám). A
+má to zmysel.
+
 ![Interview](/)
 
-# Dva prejavy a kopa impra
+# ...po odmlke znova na doskách
 
-Na pestrej palete odprezentovaných tém je vidieť rôznorodosť členov (podľa nejedného sociológa nevyhnutnosť pre prežitie skupiny :-), takže
-základ máme dobrý). Dušan nám slovami, gestami, očami, nohami a kadečím ďalším podal príbeh o svojom prvom Vision Queste. O tom, ako prijal
-medicínu, o dňoch a nociach bez jedla a spánku mimo civilizácie. Podelil sa s nami o obavy, rešpekt pocity, pocity, pocity..............a
-hlboké zážitky.
+Mali sme dva prejavy. Ja a Juraj. Obaja po dlhej pauze od posledného výstupu. U mňa cca dva mesiace. Juraj... takmer rok. Kto bol
+nervóznejší. Ale uhrali sme to na pohodu. Je to ako v posilke. Vynecháš dva tri mesiace a prvé tri týždne končíš, kde si pred tým začínal.
+Juraj mal priblížiť svoje skúsenosti s mentoringom. Veľká pochvala. Rovnako ako rečníci na Speakathon-e pochopil dôležitosť príbehu. Na
+ňom vystaval prejav, ako bol prvým mentorom jeho otec a naučil ho chytať raky do pasce. Celé to zaobalil do vtipného nadhľadu prirovnaním
+kontextu k súčasnosti (dnes sa na to pozerá optikou ničenia biotopu. Nesúďme tohto ekologického ignoranta veľmi prísne, naozaj to bola
+iná doba). Suma sumárum príjemné počúvanie, hodnotenie dostal, vie ako na tom je. Minúta ticha za Jurajove gestá bola, poďme ďalej. Pravdou
+je, že pri písani píspevku ubehli skoro dva týždne od jeho prejavu a na raky si stále spomínam. Na tom vidíš, čo dokáže príbeh.
+
+
 
 ![Interview](/)
 
