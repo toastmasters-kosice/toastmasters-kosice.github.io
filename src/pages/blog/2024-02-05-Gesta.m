@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: 42 - odpoveď na otázku života a smrti?
-date: 2024-01-20
+title: GESTÁ!! gestá.... Gestá?
+date: 2024-02-05
 featuredpost: false
 featuredimage: /
 description: >-
@@ -11,20 +11,17 @@ tags:
   - Osobná skúsenosť
 ---
 
-*(čítanie na 7 min)*
+*(čítanie na 5 min)*
 
-# SPEAKATHOOOOOOON
+# Minúta ticha
 
-Speakathon v Košiciach ešte nebol, nuž najvyšší čas to zmeniť. Náhodou, či dielom šedej eminencie sa tak stalo na prvom stretnutí roka.
-Kto nevie o čo ide, z názvu určite tuší. Speakathon je maratón prejavov. "Narveme" do jedného stretnutia prejavov čo to dá. Podmienkou
-je, aby bolo dosť ochotných rečníkov. A s tým problém nebol. Plánovali sme 6 rečí, čo aj vyšlo, no z časových dôvodov sme ubrali z
-kvantitatívnych rôl, kde sa dalo. Perfektná skúsenosť a kopa bonusov, ktoré spomeniem nižšie. Pravdou je, že stretnutie prebehlo 8. januára,
-no píšem až teraz. Z lenivosti sem tam padne niečo dobré. Píšem tak neskoro, až som stihol prelustrovať spracovaný záznam. A chvááááááááála
-Bohu. Postrehol som kopu vecí, ktoré mi počas stretnutia unikli.
-
+Venujme minútku ticha naším drahým zosnulým gestám. Takto môžeme zhrnúť prácu s dvoma z našich údov- rukami. Dobre dobre. Je tam pokrok. Nevravím, že
+nie. Ale stále je to bieda. Nie sme v divadle, ale nikto mi z hlavy nevytrieska, že istý "divadelný facelift" by nám predsa len bodol. Načo? Pre oživenie.
+Pre vtiahnutie, pre radosť, udržanie pozornosti a pre túúúúúú "prdel" ktorú to so sebou prináša. Naozaj. Občas pri tréningu popustím uzdu zmyslu pre drámu
+a rozšafnými gestami sa rozhadzujem po celej predsieni (inde veľké zrkadlo nemám). A má to zmysel.
 ![Interview](/)
 
-# Staviame na variabilite
+# Dva prejavy a kopa impra
 
 Na pestrej palete odprezentovaných tém je vidieť rôznorodosť členov (podľa nejedného sociológa nevyhnutnosť pre prežitie skupiny :-), takže
 základ máme dobrý). Dušan nám slovami, gestami, očami, nohami a kadečím ďalším podal príbeh o svojom prvom Vision Queste. O tom, ako prijal
