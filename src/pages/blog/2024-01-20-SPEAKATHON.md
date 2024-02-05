@@ -11,7 +11,7 @@ tags:
   - Osobná skúsenosť
 ---
 
-*(čítanie na 10 min)*
+*(čítanie na 7 min)*
 
 # SPEAKATHOOOOOOON
 
