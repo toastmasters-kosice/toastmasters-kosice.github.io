@@ -15,14 +15,14 @@ tags:
 
 # SPEAKATHOOOOOOON
 
+![Interview](/img/IMG_2023-11-22-David.jpg)
+
 Speakathon v Košiciach ešte nebol, nuž najvyšší čas to zmeniť. Náhodou, či dielom šedej eminencie sa tak stalo na prvom stretnutí roka.
 Kto nevie o čo ide, z názvu určite tuší. Speakathon je maratón prejavov. "Narveme" do jedného stretnutia prejavov čo to dá. Podmienkou
 je, aby bolo dosť ochotných rečníkov. A s tým problém nebol. Plánovali sme 6 rečí, čo aj vyšlo, no z časových dôvodov sme ubrali z
 kvantitatívnych rôl, kde sa dalo. Perfektná skúsenosť a kopa bonusov, ktoré spomeniem nižšie. Pravdou je, že stretnutie prebehlo 8. januára,
 no píšem až teraz. Z lenivosti sem tam padne niečo dobré. Píšem tak neskoro, až som stihol prelustrovať spracovaný záznam. A chvááááááááála
 Bohu. Postrehol som kopu vecí, ktoré mi počas stretnutia unikli.
-
-![Interview](/)
 
 # Staviame na variabilite
 
@@ -31,9 +31,9 @@ základ máme dobrý). Dušan nám slovami, gestami, očami, nohami a kadečím 
 medicínu, o dňoch a nociach bez jedla a spánku mimo civilizácie. Podelil sa s nami o obavy, rešpekt pocity, pocity, pocity..............a
 hlboké zážitky.
 
-![Interview](/)
+![Interview](/img/IMG_2023-11-22-Dusan.jpg)
 
-![Interview](/)
+![Interview](/img/IMG_2023-11-22-Trung.jpg)
 
 # ...pokračujeme
 
@@ -41,36 +41,30 @@ hlboké zážitky.
 komunikačnom štýle. Nie som si istý, či stihol všetko čo chcel, ale v každom prípade nám sú jasné dve veci. Nemá rád korporát. A pripravuje
 podujatie mimo bubliny TM.
 
-![Interview](/)
+![Interview](/img/IMG_2023-11-22-Vlado.jpg)
 
 Po ňom nasledoval Samo. S vervou sa pustil do drsnej kritiky mediálne známeho a pomerne často diskutovaného psychológa J. Petersona. Pravdou je,
 že mu do oka v skutku nepadol. Na paškál si vzal ako jeho knihu o 12 pravidlách pre život, tak názory odprezentované na Youtube. Poniektorých nás
 zaskočil vyhraneným názorom aj na stálicu psychologického neba C. G. Junga. Koľko ľudí, toľko chutí, chodíme sem práve preto, aby sme sa prejavili.
 A čo si budeme vravieť, vtom je Samo ako ryba vo vode.
 
-![Interview](/)
-
 # Polovica za nami
 
  František sa v projekte popasoval s vlastným komunikačným štýlom. Keď Ti v teste výjdu na prvom mieste tri štýly zo štyroch, nie je jednoduché to
 ustáť. Poskladať z čriepkov mozaiku vlastnej osobnosti je beh na dlhú trať. Feri má prvé kilometre za sebou.........až čas ukáže, či trafil smer 😄
 
-![Interview](/)
+![Interview](/img/IMG_2023-11-22-Feri.jpg)
 
 V poradí piatym rečníkom je Miro. Kladie otázku, ktorá nedá spať nejednému z nás: Sú tri hodiny dostatočnou rezervou stihnúť lietadlo v Paríži? Nedá
 mi neukázať na fičúrsky kúsok rečníka. Využil finesu, o ktorej som sa dozvedel len nedávno. V prvej vete nám opísal výsek záverečnej scény jeho príbehu.
 Bez akýchkoľvek súvislostí. Rečníci tento prvok používaju pre "navnadenie " poslucháča. Mozog totiž prahne po kauzalitách. Ak dostane časť informácie,
 chce ho vložiť do kontextu. Preto naň poslušne čaká. A kontext nám Miro pomaly, kúsok po kúsku dávkoval.
 
-![Interview](/)
-
 Olívia vyžmýkala čas do poslednej sekundy, aby nám podala pravdivé svedectvo o číslach. 42 naozaj nie je odpoveďou na otázky života a smrti. Minimálne
 u nej to je "na tuty" 71. Príbeh zo života s filmovým (nie najšťastnejším) koncom (no tie sa predávajú najlepšie 😉). Pre viac detailov dávame k
 dispozícii (pre členov klubu) videozáznam stretnutia, odkaz nájdeš na Discorte.
 
-![Interview](/)
-
-# Typy pre teba
+# Tipy pre teba
 
 A teraz pár sľúbených postrehov. V prvom rade je na zázname jasne vidieť, že každý z rečníkov pochopil dôležitosť príbehu. Či už ide o osobné zážitky,
 kritiku práce, alebo prezentáciu, všade sa dá vložiť príbeh. Nie je dôležité aby bol dlhý, ale aby vyplavil u poslucháča emóciu. Emotívne angažovaný

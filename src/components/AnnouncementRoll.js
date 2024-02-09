@@ -71,8 +71,8 @@ export default () => (
     query={graphql`
       query AnnouncementRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "announcement" } } }
+          sort: {frontmatter: {date: DESC}}
+          filter: {frontmatter: {templateKey: {eq: "announcement"}}}
         ) {
           edges {
             node {
