@@ -37,18 +37,13 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
+                      <Link className="navbar-item" to="/kontakt">
+                        Kontakt
+                      </Link>
+                    </li>
+                    <li>
                       <Link className="navbar-item" to="/faq">
                         Časté otázky
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/kalendar">
-                        Kalendár
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/pre-clenov">
-                        Pre členov
                       </Link>
                     </li>
                   </ul>
@@ -58,13 +53,23 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
+                      <Link className="navbar-item" to="/kalendar">
+                        Kalendár
+                      </Link>
+                    </li>
+                    <li>
                       <Link className="navbar-item" to="/blog">
                         Najnovšie príspevky
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/kontakt">
-                        Kontakt
+                      <Link className="navbar-item" to="/pre-clenov">
+                        Pre členov
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/speechcraft">
+                        Speechcraft
                       </Link>
                     </li>
                   </ul>
