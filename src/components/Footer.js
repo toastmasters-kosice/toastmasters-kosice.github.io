@@ -5,6 +5,7 @@ import logo from '../img/logo-tmke.png'
 import email from '../img/social/email.svg'
 import facebook from '../img/social/facebook.svg'
 import linkedin from '../img/social/linkedin.svg'
+import discord from '../img/social/discord.svg'
 import youtube from '../img/social/youtube.svg'
 import github from '../img/github-icon.svg'
 
@@ -74,6 +75,13 @@ const Footer = class extends React.Component {
                   <img
                     src={email}
                     alt="E-mail"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="discord" href="https://discord.gg/DzxzQ6r3Pm">
+                  <img
+                    src={discord}
+                    alt="Discord"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
