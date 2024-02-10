@@ -15,6 +15,8 @@ tags:
 
 # Minúta ticha
 
+![Interview](/)
+
 Venujme minútku ticha naším drahým zosnulým gestám. Takto môžeme zhrnúť prácu s dvoma z našich údov- rukami. Dobre dobre. Je tam pokrok.
 Nevravím, že nie. Ale stále je to bieda. Nie sme v divadle, no nikto mi z hlavy nevytrieska, že istý "divadelný facelift" by nám predsa
 len bodol. Načo? Pre oživenie. Pre vtiahnutie, pre radosť, udržanie pozornosti a pre túúúúúú "prdel" ktorú to so sebou prináša. Naozaj.
@@ -33,6 +35,8 @@ kontextu k súčasnosti (dnes na to pozeráme optikou ničenia biotopu. Nesúďm
 iná doba). Suma sumárum príjemné počúvanie, hodnotenie dostal, vie ako na tom je. Minúta ticha za Jurajove gestá bola, poďme ďalej. Pravdou
 je, že pri písani píspevku ubehli skoro dva týždne od jeho prejavu. Na raky si však stále spomínam. Tu vidíš, čo dokáže príbeh.
 
+![Interview](/)
+
 Moja téma bola ladená mierne náučne. Priestor prejavov využívam na prezentovanie poznatkov, ako zlepšiť rozprávanie a vystupovanie na
 verejnosti. Každý prejav je venovaný inej časti (gestá, pauzy, príbeh, pohyby...). Toto spracovanie ide mimo projektov, ktoré musím splniť,
 tak uvidíme, ako dlho to vydrží. V prvom prejave série rozoberáme, ako z poslucháča urobiť pozorného poslucháča. Riešenie je jednoduché,
@@ -41,41 +45,20 @@ potrebujeme ho emocionálne angažovať do problematiky prejavu. Čím to dociel
 som zvolil formu mini modulov. Aby bol dodržaný ďalší zo základných pilierov dobrej prezentácie (informačná/zábavná rovina - aj tomu bude
 minimálne jeden modul venovaný), niet inej cesty.
 
+![Interview](/)
+
 Aby som sa však vrátil k podstate príspevku, GESTÁ. Snažil som sa s nimi pracovať? Áno. Vyšlo to? Do istej miery. Tak ako som to trénoval
 doma pred zrkadlom? Ani z ďaleka. Kde sa stala chyba? Nikde. Gestá sú schopnosťou ako všetky iné. Dajú sa naučiť, chce to ale istý čas,
 pravidelnej práci s ich precvičovaním. Mám však pár postrehov, ktoré ti pri tom pomôžu. Ten najväčší hneď uvediem. V prvom rade si uvedom, že
-nie všetko sa dá vyjadriť vhodným gestom. Urob si dvojice tým, že ku konkrétnemu slovu priradíš konkrétne gesto. 
-
-
-
-
-![Interview](/)
-
-![Interview](/)
-
-# ...pokračujeme
-
+nie všetko sa dá vyjadriť vhodným gestom. Urob si dvojice tým, že ku konkrétnemu slovu priradíš konkrétne gesto. Pár základných dvojíc nájdeš v
+tomto videu : https://www.youtube.com/watch?v=zn2iRG7bI2I&list=WL&index=32 (mizerná kvalita, ale poslúži aj tak). To je prvý krok. Druhým je ich
+zakomponovanie do tvojho rozprávanie v bežných situáciach. Aby si sa na to nepotreboval vedome sústrediť. Všetko. Tento "vylepšovák" je jednou
+malou zmenou v tvojom prejave. A to Ti stačí. Robiť veľkú zmenu je pekelne náročné. Vyhni sa tomu vždy ak môžeš. Miesto toho urob 50 mini zmien.
+Tie nebolia, lebo ich robíš dlho jednu po druhej.
 
 ![Interview](/)
 
-
 ![Interview](/)
-
-# Polovica za nami
-
-
-![Interview](/)
-
-
-![Interview](/)
-
-
-![Interview](/)
-
-# Typy pre teba
-
-
-# Čerešnička na záver
 
 
 *príspevkom Ti deň okorenil Chlapík od PR*
