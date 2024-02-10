@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: GESTÁ!! gestá.... Gestá?
+title: Gestá. Gestá?....GESTÁÁÁ!!!!!!
 date: 2024-02-05
 featuredpost: false
 featuredimage: /
