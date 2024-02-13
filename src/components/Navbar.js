@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+import discord from "../img/social/discord.svg";
 import logo from "../img/logo-tmke.png";
 
 const Navbar = () => {
@@ -76,12 +76,12 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/toastmasters-kosice/"
+              href="https://discord.gg/DzxzQ6r3Pm"
               target="_blank"
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="Github" />
+                <img src={discord} alt="Discord" />
               </span>
             </a>
           </li>
