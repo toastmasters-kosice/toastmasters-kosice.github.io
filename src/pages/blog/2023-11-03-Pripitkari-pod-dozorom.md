@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Prípitkári pod dozorom
+title: (DP8) Prípitkári pod dozorom
 date: 2023-11-04
 featuredpost: false
 featuredimage: /img/security-cameras.jpg
