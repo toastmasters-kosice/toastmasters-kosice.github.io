@@ -15,7 +15,7 @@ tags:
 
 # Minúta ticha
 
-![Interview](/)
+![Interview](/img/funeral.jpg)
 
 Venujme minútku ticha, naším drahým, zosnulým gestám. Takto môžeme zhrnúť prácu s dvoma z našich údov- rukami. Dobre dobre. Je tam pokrok,
 nevravím, že nie. Ale stále je to bieda. Nie sme v divadle, no nikto mi z hlavy nevytrieska, že istý "divadelný facelift" by nám predsa
@@ -23,9 +23,10 @@ len bodol. Načo? Pre oživenie. Pre vtiahnutie, pre radosť, udržanie pozornos
 pri tréningu popustím uzdu zmyslu pre drámu a rozšafnými gestami sa rozhadzujem po celej predsieni (inde veľké zrkadlo nemáme). A
 má to zmysel.
 
-![Interview](/)
 
 # ...po odmlke znova na doskách
+
+![Interview](//img/theater.jpg)
 
 Mali sme dva prejavy. Juraj a ja. Obaja po dlhej pauze od posledného výstupu. U mňa cca dva mesiace, Juraj... takmer rok. Kto bol nervóznejší?
 Ale uhrali sme to. Je to ako v posilke. Vynecháš dva tri mesiace a prvé dva týždne končíš, kde si pred tým začínal. Juraj mal priblížiť svoje
