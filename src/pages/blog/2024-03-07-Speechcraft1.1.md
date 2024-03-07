@@ -58,6 +58,8 @@ pomáha v napredovaní aj po skončení kurzu.
 Prvé stretnutie máme za sebou. Lektori rozdaní, prvé improvizácie zvládnuté a týždeň tvrdej prípravy začína.
 Odkaz na viac info o kurze nájdeš na vrchu našej stránky, trefne pomenovaný Speechcraft. 
 
+
+
 ![Interview](/img/gentleman.jpg)
 
 *príspevkom Ti deň osviežil Chlapík od PR*
