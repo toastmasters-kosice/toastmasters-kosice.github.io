@@ -39,7 +39,7 @@ sa z knihy vystupovať a rozprávať pred ľuďmi jednoducho nenaučíš.
 Stavili sme na individuálny prístup. Zvolili sme "VIP formu", v ktorej má jeden lektor prideleného len a iba
 jedného účastníka. To je dôvod, prečo je počet ľudí, ktorých prijímame obmedzený. Uvidíme, koľko ďalších kurzov
 sa podarí personálne vykryť v rovnakom štýle. Speechcraft, ktorý sme tento mesiac rozbehli však taký bude na
-betón. Menši počet účastníkov nám poskytuje aj ďalšie výhody. Ak nás bude veľa, nebude dosť priestoru pre všetkých
+betón. Menší počet účastníkov nám poskytuje aj ďalšie výhody. Ak nás bude veľa, nebude dosť priestoru pre všetkých
 na každom stretnutí. A čo si budeme nahovárať. Kto nie je zvyknutý vystupovať verejne, tréning zvláda omnoho
 jednoduchšie, ak je jeho publikum (minimálne zo začiatku) malé. Veľa účastníkov naraz, rovná sa veľké publikum.
 
@@ -60,6 +60,6 @@ Odkaz na viac info o kurze nájdeš na vrchu našej stránky, trefne pomenovaný
 
 ![Interview](/img/gentleman.jpg)
 
-*príspevkom Ti deň okorenil Chlapík od PR*
+*príspevkom Ti deň osviežil Chlapík od PR*
 
 
