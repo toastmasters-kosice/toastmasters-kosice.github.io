@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: <i>V klídku, s iskrou, k veci</i> - SPEECHCRAFT
+title: V klídku, s iskrou, k veci - SPEECHCRAFT
 date: 2024-03-07
 featuredpost: false
 featuredimage: /img/mikrofon.jpg
