@@ -16,7 +16,9 @@ tags:
 # Neideme cez kopirák 
      
 Robiť z ľudí komunikačné stroje je blbosť. Nie sme v call-centre. Ty, ja, tvoj sused, každý máme charakteristickú črtu viditeľnú v prejave.
-Nemá zmiznúť pod nánosom instantných komunikačných techník. Tož podstata individuálneho prístupu. Vieš, že človeka rozoznáš na 80 metrov
+Nemá zmiznúť pod nánosom instantných komunikačných techník. Tož podstata individuálneho prístupu. 
+
+Vieš, že človeka rozoznáš na 80 metrov
 podľa chôdze? Toto potrebujeme zachovať aj pri komunikácii. Na to využívame prvé prejavy. Aby som sa básnicky vyžil, poviem: <i>„hľadáme jeho
 esenciu.“</i> Dvíhanie obočia, archaické výrazy, zasnený pohľad pri premýšľaní... . Tieto stopy nemajú byť vymazané, ale kultivované. Sú puncom
 tvojej osobnosti. 
