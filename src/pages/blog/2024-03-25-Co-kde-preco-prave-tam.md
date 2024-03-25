@@ -25,11 +25,13 @@ tvojej osobnosti.
 
 ![Interview](/img/klon-prasa.jpg)
 
-Na sledujem Youtube rozhovory so známymi osobnosťami a hľadám tieto znaky. Napríklad Jude Law ženy zaujme „chlapčenským šarmom“. Keď sa
+Sledujem na Youtube rozhovory so známymi osobnosťami a hľadám tieto znaky. Napríklad Jude Law ženy zaujme „chlapčenským šarmom“. Keď sa
 zapozeráš, dokážeš kvantifikovať prvky, ktoré tento dojem vytvárajú. Napríklad. Keď počúva druhého, dvihne pri tom obočie a predkloní
 hlavu smerom k nemu. Tento pohyb je však špecifický tým, že mierne pri ňom dvihne bradu. Výsledný efekt? Dvihnuté obočie, rovnako ako
 „natiahnutie sa “ hlavou k tomu ktorý rozpráva, vyvoláva dojem prirodzeného záujmu. Zároveň dvihnutá brada pôsobí vyzývavo. Pridaj k
-tomu úsmev a vzniká hravá vyzývavosť. Celé skombinuj a  máš recept na „chlapčenský šarm“. Podobné črty v neverbálnej komunikácii máme
+tomu úsmev a vzniká hravá vyzývavosť. Celé skombinuj a  máš recept na „chlapčenský šarm“. 
+
+Podobné črty v neverbálnej komunikácii máme
 všetci. V Speechcrafte im venujeme pozornosť, aby sme ich kultivovali správnym smerom a naučili dopĺňať ďalšími zložkami (gestá atď). 
 
 # Svätá trojica prejavu
@@ -37,7 +39,9 @@ všetci. V Speechcrafte im venujeme pozornosť, aby sme ich kultivovali správny
 ![Interview](/img/gods-eye.jpg)
 
 Bohužiaľ, je to tak. Bez dobrej organizácie a štylistiky je to náročné. Nebavme sa len o verejnom prejave. Málo kto ho reálne potrebuje.
-Na prstoch jednej ruky spočítaš svojich známych, ktorí sa vyjadrujú priamo a vecne. Naozaj. Spočítaj ich. Pri písaní textov a tréningu
+Na prstoch jednej ruky spočítaš svojich známych, ktorí sa vyjadrujú priamo a vecne. Naozaj. Spočítaj ich. 
+
+Pri písaní textov a tréningu
 prejavov vstrebávaš teóriu a zakomponuješ ju do prirodzenej komunikácie. Prejaví sa to pri debate v práci, aj večernom boji, čo bude
 zajtra na obed. O tom je téma, pointa a účel. Kedy prikývnuť, kedy dať argument, alebo podtrhnúť pointu vhodným „príbehom“. Teoretické
 východiská máme za sebou, makáme na ich bežnom aplikovaní.
