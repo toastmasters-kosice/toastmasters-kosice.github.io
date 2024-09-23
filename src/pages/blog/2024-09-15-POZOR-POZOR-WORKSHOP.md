@@ -16,7 +16,7 @@ tags:
 # 08. 09. 2024 Kopa chýb a masa spätnej väzby
 
 Keby sa kultová československá rozprávka BYL JEDNOU JEDEN KRÁL točila dnes, v dobe soft skills, volala by sa SPäTNÁ VäZBA NAD
-ZLATO. A Verich by Maruške nakladal, že spätnej väzby sú všade hory, veď sa len stačí opýtať hocakeho hochštaplera.
+ZLATO. A Verich by Maruške nakladal, že spätnej väzby sú všade hory, veď sa len stačí opýtať hocakého hochštaplera.
 A rovnako ako so soľou (ak nie viac), by sa borec sekol aj tento raz.  
 
 
