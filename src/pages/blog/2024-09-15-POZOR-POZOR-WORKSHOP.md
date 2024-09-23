@@ -25,7 +25,7 @@ A rovnako ako so soľou (ak nie viac), by sa borec sekol aj tento raz.
 
 # 08. 10. 2024 Kopa chýb a masa spätnej väzby
 
-Minulý rok sme úspešne odštartovali SPEECHCRAFT, náš kurz s individuálnym prístupom (ďalší ročník začína v novembri).
+Začiatkom roka sme úspešne odštartovali SPEECHCRAFT, náš kurz s individuálnym prístupom (jesenný kurz začína v novembri).
 Túto jeseň však ideme ešte ďalej. Pripravili sme workshop "KOPA CHÝB A MASA SPäTNEJ VäZBY". Projekt je zameraný na
 kratučké vzdelávacie vstupy, obsahujúce instantné techniky...... prečo instantné?
 
