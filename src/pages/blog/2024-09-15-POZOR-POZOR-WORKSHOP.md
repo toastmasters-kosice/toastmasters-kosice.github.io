@@ -61,7 +61,7 @@ na plagáte.
 ![Interview](/img/mistake-girl.jpg)
 
 Realita nám trošku zkostnatela. Už dlho počúvame o tom, ako nerobiť chyby. NESÚHLASÍME. Razíme cestu myšlienke, že chyby sú
-nevyhnutná vec. Každý jeden, kto nestojí na mieste, ich musí robiť.  Ale povedzme si na rovinu.... bojíme sa ich robiť. Sú
+nevyhnutná vec. Každý jeden, kto nestojí na mieste, ich musí robiť.  Ale povedzme si na rovinu.... bojíme sa ich. Sú
 stigmatizované, sú nepríjemné. Cítime sa trápne dokonca aj vtedy, ak ich v našej prítomnosti urobí niekto iný. Aby strach zmizol,
 potrebujeme pocit istoty... bezpečia. Preto v klube TM Košice využívame koncept bezpečného prostredia. Čo to znamená? Jednoduchá
 vec: pravidelné stretnutia členov ---- 90 % času každého stretnutia venujeme praktickému tréningu ---- kvalitná, ľudsky podaná
