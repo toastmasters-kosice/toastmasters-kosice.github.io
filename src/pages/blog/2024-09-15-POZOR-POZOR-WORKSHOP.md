@@ -3,7 +3,7 @@ templateKey: blog-post
 title: POZOR POZOR WORKSHOP PRE VEREJNOSŤ!!!!!!
 date: 2024-09-15
 featuredpost: false
-featuredimage: /img/workshop-poster-tabacka.png
+featuredimage: /img/workshop-tabacka-poster.png
 description: >-
 tags:
   - Verejné vystupovanie
@@ -13,7 +13,7 @@ tags:
 
 *(čítanie na 3 min)*
 
-![Interview](/img/workshop-poster-tabacka.png)
+![Interview](/img/workshop-tabacka-poster.png)
 
 # 08. 10. 2024 HLAS, KTORÝ INŠPIRUJE
 
