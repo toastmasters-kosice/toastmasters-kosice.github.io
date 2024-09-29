@@ -18,7 +18,12 @@ Rovnako berieme na zreteľ, že nie každý sa cíti na to, aby hneď rozprával
 
 Každé stretnutie absolvuješ krátku úzko profilovanú prednášku. Aby sa ti teória dostala do krvi, hneď po nej nasledujú improvizácie, kde aplikujeme práve prebrané poznatky. Budeš mať tiež prístup k **doplnkovým vzdelávacím materiálom v angličtine** (*vyžaduje sa počítač a internet*). Viac informácií [nájdete tu](https://www.toastmasters.org/education/speechcraft/speechcraft-faq).
 
-Na každom stretnutí (okrem prvého samozrejme), majú účastníci pripravený prejav, ktorý odprezentujú. Ich príprava sa koná mimo stretnutí a mentori s ňou svojim zverencom asistujú. Po každom prejave bude nasledovať hodnotenie, ktoré identifikuje silné a slabé stránky a poskytne cenné rady, pre ďalší pokrok. Klub Toastmasters si zakladá na budovaní tzv. podporného prostredia. To stojí na priateľskom prístupe mentorov a uvoľnenej atmosfére. Uvedomujeme si ťažkosti, ktoré sú spájané s verejným vystupovaním, preto bazírujeme na tom, aby sa cítili účastníci uvoľnene a dostávali spätnú väzbu "ľudsky".
+Na každom stretnutí (okrem prvého samozrejme), majú účastníci pripravený prejav, ktorý odprezentujú. Ich príprava sa koná mimo stretnutí a mentori s ňou svojim zverencom asistujú. Po každom prejave bude nasledovať hodnotenie, ktoré identifikuje silné a slabé stránky a poskytne cenné rady, pre ďalší pokrok. 
+
+         *"Kvalitný feedback, raňajky šampiónov."*
+                                          múdri muži z TM KOŠICE
+
+Klub Toastmasters si zakladá na budovaní tzv. podporného prostredia. To stojí na priateľskom prístupe mentorov a uvoľnenej atmosfére. Uvedomujeme si ťažkosti, ktoré sú spájané s verejným vystupovaním, preto bazírujeme na tom, aby sa cítili účastníci uvoľnene a dostávali spätnú väzbu "ľudsky".
 
 **Po absolvovaní kurzu dostanete certifikát potvrdzujúci vašu účasť.**
 
