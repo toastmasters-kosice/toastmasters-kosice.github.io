@@ -54,7 +54,7 @@ pri webináry.
 
 A tak sme vytvorili instantný workshop pre verejnosť (!!!!!!! PREMIÉRA, TAKŽE TENTOKRÁT VSTUP ZDARMA !!!!!!!) Tri ultra
 jednoduché vzdelávačky s okamžite použiteľnými tipmi. A že to myslíme vážne, po každej vzdelávačke nasledujú improvizácie,
-kde si hneď vyskúšaš, čo si sa práve dozvedel. Bude v priestore Fabric cafe v Tabačke 08. októbra 2024 o 18:10. 
+kde si hneď vyskúšaš, čo si sa práve dozvedel. Bude v priestore Fabric cafe v Tabačke 08. októbra 2024 o 18:20. 
 
 
 # 08. 10. 2024 HLAS, KTORÝ INŠPIRUJE
