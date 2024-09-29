@@ -13,7 +13,7 @@ tags:
 
 *(čítanie na 3 min)*
 
-# 08. 10. 2024 Kopa chýb a masa spätnej väzby
+# 08. 10. 2024 HLAS, KTORÝ INŠPIRUJE
 
 Keby sa kultová československá rozprávka BYL JEDNOU JEDEN KRÁL točila dnes, v dobe soft skills, volala by sa SPäTNÁ VäZBA NAD
 ZLATO. A Verich by Maruške nakladal, že spätnej väzby sú všade hory, veď sa len stačí opýtať hocakého hochštaplera.
@@ -23,10 +23,10 @@ A rovnako ako so soľou (ak nie viac), by sa borec sekol aj tento raz.
 ![Interview](/img/byl-jednou-jeden-kral.jpg)
 
 
-# 08. 10. 2024 Kopa chýb a masa spätnej väzby
+# 08. 10. 2024 HLAS, KTORÝ INŠPIRUJE
 
 Začiatkom roka sme úspešne odštartovali SPEECHCRAFT, náš kurz s individuálnym prístupom (jesenný kurz začína v novembri).
-Túto jeseň však ideme ešte ďalej. Pripravili sme workshop "KOPA CHÝB A MASA SPäTNEJ VäZBY". Projekt je zameraný na
+Túto jeseň však ideme ešte ďalej. Pripravili sme workshop "HLAS, KTORÝ INŠPIRUJE". Projekt je zameraný na
 kratučké vzdelávacie vstupy, obsahujúce instantné techniky...... prečo instantné?
 
 
@@ -39,7 +39,7 @@ rukou devy s anjelskou tvárou. Ešte vidíš na koberci stopy jej bosých nôh,
 druhej strane... ju chceš rýchlo. S ešte "zalepenými očami", vo vyťahanom župane. A HLAVNE !!! Aby ťa "pixľa" vyšla do
 šesť eúr. Instantná káva je niekde v strede. Inými slovami už spomenutý....... kompromis. 
 
-# 08. 10. 2024 Kopa chýb a masa spätnej väzby
+# 08. 10. 2024 HLAS, KTORÝ INŠPIRUJE
 
 Žiarovečka svieti a prišla inšpirácia. Prečo sa sústrediť len na ľudí, ktorí chcú vypilovať svoju "verbalitu" na level
 "Poloboh" ? Kopa z nás chce len niečo, o kúsok lepšie ako teraz. Možno rozprávať viac k veci. Alebo naopak natiahnúť tých
@@ -56,7 +56,7 @@ kde si hneď vyskúšaš, čo si sa práve dozvedel. Bude v priestore Fabric caf
 na plagáte. 
 
 
-# 08. 10. 2024 Kopa chýb a masa spätnej väzby
+# 08. 10. 2024 HLAS, KTORÝ INŠPIRUJE
 
 ![Interview](/img/mistake-girl.jpg)
 
