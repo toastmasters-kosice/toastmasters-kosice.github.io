@@ -27,8 +27,7 @@ Klub Toastmasters si zakladá na budovaní tzv. podporného prostredia. To stoj�
 
 **Po absolvovaní kurzu dostanete certifikát potvrdzujúci vašu účasť.**
 
-Začiatok kurzu je naplánovaný na **utorok 5. marca**. Jednotlivé stretnutia sa budú pravidelne konať
-**každý utorok v marci v čase 17:30-19:30 v centrálnej knižnici** na Hviezdoslavovej 5 v Košiciach.
-**Cena kurzu** je **80 eur** (platbu môžete uhradiť v hotovosti na prvom stretnutí). Počet účastníkov je obmedzený, preto je potrebné [registrovať sa tu](https://docs.google.com/forms/d/e/1FAIpQLSfc_ffX9eJaADMRhdMs5wJif5iAMfHKuBM8_8wEPzAdI2o9tw/viewform?pli=1).
+
+(platbu môžete uhradiť v hotovosti na prvom stretnutí). Počet účastníkov je obmedzený, preto je potrebné [registrovať sa tu](https://docs.google.com/forms/d/e/1FAIpQLSfc_ffX9eJaADMRhdMs5wJif5iAMfHKuBM8_8wEPzAdI2o9tw/viewform?pli=1).
 
 *Bližšie informácie o presnom termíne a mieste kurzu uvedieme čo nevidieť :-).*
