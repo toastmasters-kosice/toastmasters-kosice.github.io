@@ -20,9 +20,7 @@ Každé stretnutie absolvuješ krátku úzko profilovanú prednášku. Aby sa ti
 
 Na každom stretnutí (okrem prvého samozrejme), majú účastníci pripravený prejav, ktorý odprezentujú. Ich príprava sa koná mimo stretnutí a mentori s ňou svojim zverencom asistujú. Po každom prejave bude nasledovať hodnotenie, ktoré identifikuje silné a slabé stránky a poskytne cenné rady, pre ďalší pokrok.
 
-*"Kvalitný feedback, raňajky šampiónov."*
-                       
-                        múdri muži z TM KOŠICE
+*"Kvalitný feedback, raňajky šampiónov."* (múdri muži z TM KOŠICE)
 
 Klub Toastmasters si zakladá na budovaní tzv. podporného prostredia. To stojí na priateľskom prístupe mentorov a uvoľnenej atmosfére. Uvedomujeme si ťažkosti, ktoré sú spájané s verejným vystupovaním, preto bazírujeme na tom, aby sa cítili účastníci uvoľnene a dostávali spätnú väzbu "ľudsky".
 
