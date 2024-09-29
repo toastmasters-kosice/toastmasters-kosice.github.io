@@ -4,7 +4,7 @@ path: /speechcraft
 title: Speechcraft
 ---
 
-![Speechcraft](/img/speechcraft/speechcraft_leaflet_2024.jpg)
+![Speechcraft](/img/speechcraft/speechcraft-2.0.png)
 
 ## Rozprávaj ako profesionál, prihlás sa na rečnícky kurz!
 
