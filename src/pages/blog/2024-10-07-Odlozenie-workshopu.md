@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: WORKSHOP ODLOŽENÝ!!!!!!
-date: 2024-09-15
+date: 2024-10-07
 featuredpost: false
 featuredimage: /img/Odlozenie-terminu.png
 description: >-
