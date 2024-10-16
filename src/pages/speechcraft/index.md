@@ -20,8 +20,7 @@ Rovnako berieme na zreteľ, že nie každý sa cíti na to, aby hneď rozprával
 
 Stretávať sa budeme vo Verejnej knižnici Jána Bocatia Hviezdoslavova 5, Staré mesto (Košice). Budú 4 spoločné stretnutia, stále od 17:30 do 19:30. Po každom stretnutí je priestor (nepovinné :-) ) cca 1,5 hodiny na konverzáciu s mentormi, alebo ďalšími účastníkmi kurzu. To poskytuje možnosť detailnejšie rozobrať "aktuálny stav tvojho prejavu" z viacerých uhlov. Termíny stretnutí sú: 05. novembra, 15. novembra, 19. novembra a 26. novembra. V cene 120 eúr je už zahrnutý prístup k študijným materiálom databázy TM International. Po ukončení kurzu môžeš pokračovať a stať sa členom klubu, pričom budeš na svojom pokroku naďalej spolupracovať s mentorom. Výber mentora je na tebe. Počet účastníkov je kvôli zachovaniu individuálneho prístupu obmedzený na 5- 6 ľudí.
 
-[Zaregistrovať sa môžete tu](https://docs.google.com/forms/d/e/1FAIpQLSfc_ffX9eJaADMRhdMs5wJif5iAMfHKuBM8_8wEPzAdI2o9tw/viewform?pli=1).
-Prípadne otázky Ti radi zodpovieme na našej mailovej adrese: toastmasters.kosice@gmail.com
+V prípade záujmu nás kontaktuj na našej mailovej adrese: toastmasters.kosice@gmail.com
 
 
 ## AKO VYZERÁ STRETNUTIE?
