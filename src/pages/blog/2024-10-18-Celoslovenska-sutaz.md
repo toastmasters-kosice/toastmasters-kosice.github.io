@@ -14,7 +14,7 @@ tags:
 *(čítanie na 3 min)*
 
 
-# (Takmer) ako vraví Cézar: Prišiel som, videl som, zvíťazim na budúce :-)
+# (Takmer) ako vraví Cézar: Prišiel som, videl som, zvíťazím inokedy :-)
 
 Minulý rok nevkročila do súťaže jediná košická noha. Prečo? Úplne bezdôvodne. A to sa nesmie opakovať. Preto sme
 túto jeseň vpálili do pripravených prejavov. Ale pekne po poriadku. Kto, čo, kde s kým? Vysvetlíme. Každý rok máme
