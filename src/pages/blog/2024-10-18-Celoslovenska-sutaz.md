@@ -74,8 +74,6 @@ ako rozprávať a vystupovať, tak sa to dalo čakať. Ďalší takí nebudú. Z
 
 
 ![Interview](/img/broken-mirror.png)
-
-
 Čítal som, že nervozitu pred vystúpením môžeš rozchodiť. Kašli na to, nefunguje. Vyskočím na pódium, počkám kým ma uvedú
 a idem. Vždy, všade a každému vravím: "Pozor na tempo. Rob pauzy, tým ukážeš, že si šéf." A až príde na lámanie chleba...
 čo som trénoval na šesť a pol minúty, vysypal som za päť minút dvadsaťsedem sekúnd. Toľko k šéfovi...
