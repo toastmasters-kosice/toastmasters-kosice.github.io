@@ -20,6 +20,7 @@ Minulý rok nevkročila do súťaže jediná košická noha. Prečo? Úplne bezd
 túto jeseň vpálili do pripravených prejavov. Ale pekne po poriadku. Kto, čo, kde s kým? Vysvetlíme. Každý rok máme
 v TM jesennú a jarnú súťaž. Obe cielené na humor. Vedieť rozosmiať ľudí, sa šikne vždy :-)
 
+
 ![Interview](/img/young-man-having-fun-party.jpg)
 
 
@@ -30,6 +31,7 @@ treťom mieste, tož slavili sme dvakrát.
 
 
 # Sobotné ráno v BA - očami košičana
+
 
 Správny dobrodruh cestuje z Košíc do Bratislavy jedine vlakom. Bratislavská hlavná stanica má totiž osobité čaro -
 povojnového Kosova. Aby som si cestu skrátil, zakaždým idem nočným rýchlikom v lôžkovom vozni. V piatok idú všetci
@@ -47,7 +49,9 @@ to je, počarovnej kráske po sedemdesiatke vycálujem tri eurá za pol litra je
 vychádzam zo stanice. Znova raz nefajčím :-), takže skupina bezdomovcov rýchlo stráca záujem a "veselo" si vykračujem
 na zastávku. 
 
+
 # Malý kúsok raja 
+
 
 V Bratislave totiž existuje miesto, kde si môžeš aj v túto nekresťanskú hodinu užiť pohodlné prostredie. A ak vydržíš
 do siedmej, aj kávu. Áno. Oáza ranných dobrodruhov menom autobusová stanica Nivy. Ticho, teplo, spiaci teenegeri a
@@ -65,6 +69,7 @@ jedáleň (nakoniec som zistil, že hneď vedľa je autoškola, kde som kedysi r
 
 # Súťažíme
 
+
 V prvej časti súťaže boli pripravené prejavy. Losovanie rozhodlo, že som na rade ako druhý. Mierne mi "stislo polky",
 ale radšej medzi prvými, ako posledný. Moderátori sa zahrievajú úvodom a u mňa odznieva tréma. Trošku nervozity ostáva,
 ale v tej zvrátene príjemnej podobe. Moderátori pokračujú a mňa prekvapivo z nepochopiteľných príčin prepadáva myšlienka:
@@ -74,6 +79,8 @@ ako rozprávať a vystupovať, tak sa to dalo čakať. Ďalší takí nebudú. Z
 
 
 ![Interview](/img/broken-mirror.png)
+
+
 Čítal som, že nervozitu pred vystúpením môžeš rozchodiť. Kašli na to, nefunguje. Vyskočím na pódium, počkám kým ma uvedú
 a idem. Vždy, všade a každému vravím: "Pozor na tempo. Rob pauzy, tým ukážeš, že si šéf." A až príde na lámanie chleba...
 čo som trénoval na šesť a pol minúty, vysypal som za päť minút dvadsaťsedem sekúnd. Toľko k šéfovi...
