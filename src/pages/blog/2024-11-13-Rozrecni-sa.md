@@ -13,9 +13,12 @@ tags:
 
 *(čítanie na 3 min)*
 
+
 ![Interview](/img/nauc_sa_1.png)
 
+
 # Spolupracujeme s Mládežníckym parlamentom
+
 
 Vieš, že na Slovensku fungujú občianske združenia, celé v réžií stredoškolákov? Jedným z nich je Mládežnícky parlament
 MČ Košice - Západ. Projektom, ktorému sa túto jeseň venujú je workshop Rozrečni sa. Cieľom je ukázať stredoškolákom, že
@@ -27,6 +30,7 @@ vedieť ako sa ozvať, je "trendy" vec. A už keď to parlament ukazuje, vytvori
 
 # Ako rozrečni sa prebieha?
 
+
 Tento projekt financovaný Európskou úniou, cieli na tretí a štvrtý ročník stredných škol východného Slovenska. Ide o tri
 víkendové workshopy (sobota) a záverečnú súťaž účastníkov. Prečo o tom píšem? Parlament náš klub TM Košice, oslovil s
 ponukou jeden workshop viesť. Dostali sme hneď prvý. Viesť niekoľko hodinovú prednášku je odsúdené na neúspech. To si zo
@@ -34,6 +38,7 @@ ponukou jeden workshop viesť. Dostali sme hneď prvý. Viesť niekoľko hodinov
 
 
 # Kľúč? Silné stránky...
+
 
 V našom workshope sme sa sústredili na myšlienku Jana Mühlfeita. Tvrdí, že úsilie máme vkladať do toho, čo nám ide. A
 povedzme si na rovinu... dáva to zmysel. Zamysli sa. Ak máš v RPG postavu mága, tak predsa netlačíš skúsenosti do šaškovania
@@ -48,6 +53,7 @@ sa rozprávač sústredí na gestá, automaticky pri nich rozpráva dôraznejši
 
 # Kto prebral štafetu?
 
+
 Druhý workshop viedol Andrej Mažáry, najvyšší líder klubov Toastmasters na Slovensku. Ten zvolil ultra pragmatický prístup.
 Účastníci robili od úplného začiatku stretnutia improvizácie. Improvizáciou rozumej jednu až dve minúty dlhý prejav bez prípravy.
 Všetci účastníci si ňou prešli, pričom za každou bola rozsiahlá spätná väzba nie len od Andreja, ale od každého účastníka. Čo to
@@ -61,6 +67,7 @@ by bola škoda.
 
 
 # To nie je všetko
+
 
 Tretí workshop bol v réžií Debatného klubu. Tam som však nebol prítomný, preto bez komentára. O dva týždne nás čaká záverečná súťaž.
 Účastníci si pripravia krátky prejav na ľubovoľnú tému (cca 5 minút) a ukážu čo v sebe majú. Do poroty sme boli prizvaní aj my, z
