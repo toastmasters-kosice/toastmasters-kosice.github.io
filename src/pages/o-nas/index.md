@@ -3,8 +3,11 @@ templateKey: 'about-page'
 path: /o-nas
 title: ... reálne zručnosti pre skutočný život...
 ---
+
+
 Sme členom medzinárodnej organizácie [Toastmasters International](http://www.toastmasters.org/). Zároveň jediný klub Toastmasters od Michaloviec po Žilinu.
-Čo nás definuje: 
+Čo nás definuje?
+
 
  # bezpečné prostredie
 - tvoríme priestor, kde môžeš experimentovať s prejavmi, robiť chyby a učiť sa z nich bez obáv z kritiky. Pochopenie a podpora sú základ.
