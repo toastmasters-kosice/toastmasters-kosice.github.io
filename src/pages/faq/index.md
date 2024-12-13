@@ -5,26 +5,26 @@ title: Časté otázky
 ---
 
 ### Čo je to Toastmasters?
-Sme súčasťou medzinárodnej organizácie [Toastmasters International](http://www.toastmasters.org/). V Toastmasters kladieme dôraz na praktické znalosti a riešenia reálnych problémov. Poskytujeme priestor na precvičovanie a aplikáciu rečníckych a líderských zručností. Každý prejav, spätná väzba či improvizačná úloha, sú navrhnuté s cieľom posúvať členov klubu ďalej. 
+Sme súčasťou medzinárodnej organizácie [Toastmasters International](http://www.toastmasters.org/). V Toastmasters kladieme dôraz na
+praktické znalosti a riešenia reálnych problémov. Poskytujeme priestor na precvičovanie a aplikáciu rečníckych a líderských zručností.
+Každý prejav, spätná väzba či improvizačná úloha, sú navrhnuté s cieľom posúvať členov ďalej. 
 
 
-### Čo mi Toastmasters môže dať?
-V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder. 
+### Čo ti Toastmasters môže dať?
+Všetko pre tréning tvojich "mäkkých zručností" - priestor, publikum, montorov, skriptá... a v prípade dlhodobého záujmu aj možnosť pridať sa k vedeniu klubu.
 
-**Nájdeš odpovede na nasledujúce otázky:**
-- Ako si pripraviť prejav?
-- Ako sa mám hýbať po pódiu?
-- Čo s rukami pri prezentovaní? Ako sa mám tváriť?
-- Ako mám pracovať s hlasom? Čo to vôbec znamená?
-- Ako zaujať publikum a udržať si jeho pozornosť?
-- Ako rozprávať presvedčivo?
+**Prejdeme si ako**
+  pripraviť prejav
+  sa hýbať po pódiu
+  zvládnuť mimiku a gestá
+  mám pracovať s hlasom... čo to vôbec znamená
+  zaujať a udržiavať pozornosť
 
-**Okrem toho, že sa na pódiu naučíš vystupovať, Toastmasters je vhodné prostredie, kde si môžeš vyskúšať:**
-- Viesť ľudí
-- Organizovať stretnutia
-- Rozhodovať
-- Ako formulovať konštruktívnu spätnú väzbu a tiež ako ju prijímať
-- A mnoho ďalšieho!
+**Okrem vystupovania na verejnosti, si vToastmasters môžeš vyskúšať:**
+  viesť ľudí
+  organizovať stretnutia
+  rozhodovať o napredovaní klubu
+  formulovať konštruktívnu spätnú väzbu aj jej prijatie
 
 **POZOR! Vedľajšie účinky Toastmasters:**
 - Zbavíš sa strachu z rozprávania pred ľuďmi
