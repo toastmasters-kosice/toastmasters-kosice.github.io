@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /o-nas
-title: O nás
+title: ... reálne zručnosti pre skutočný život...
 ---
 Kluby Toastmasters sú určené pre tréning komunikačných, rečníckych a vodcovských zručností. Cieľom je učiť sa praxou, pomocou spätnej väzby a vlastným tempom s priateľskou podporou ostatných členov klubu. Sme členmi medzinárodnej organizácie [Toastmasters International](http://www.toastmasters.org/).
 
