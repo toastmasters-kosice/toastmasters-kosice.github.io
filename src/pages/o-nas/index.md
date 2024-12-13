@@ -1,8 +1,12 @@
 ---
 templateKey: 'about-page'
 path: /o-nas
-title: Toastmasters KE znamená...
+title:
 ---
+# Definuje nás:
+
+
+
 
 
  # bezpečné prostredie
