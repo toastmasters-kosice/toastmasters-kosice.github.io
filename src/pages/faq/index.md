@@ -10,7 +10,7 @@ praktické znalosti a riešenia reálnych problémov. Jednoducho povedané, posk
 líderských zručností. 
 
 ### Čo Ti Toastmasters vlastne dá?
-Všetko pre tréning tvojich "mäkkých zručností" - priestor, publikum, montorov, skriptá... a v prípade dlhodobého záujmu aj možnosť
+Všetko pre tréning tvojich "mäkkých zručností" - priestor, publikum, mentorov, skriptá... a v prípade dlhodobého záujmu aj možnosť
 pridať sa k vedeniu klubu.
 
 ### Môžeš sa prísť nezáväzne pozrieť?
