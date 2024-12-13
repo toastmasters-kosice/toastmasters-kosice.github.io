@@ -17,14 +17,14 @@ pridať sa k vedeniu klubu.
 Samozrejme. Každé stretnutie je zdarma otvorené pre hostí. Ako hosť sa môžeš zapojiť do improvazovaných prejavov. Tým sa venujeme v druhej polovici
 stretnutia. Pointov je, že improvizátor dostane tému, k nej 30 sekúnd na premyslenie a rozpráva 1 až 2 minúty. 
 
-**Riešime ako**
+### Riešime ako
   pripraviť prejav
   sa hýbať po pódiu
   zvládnuť mimiku a gestá
   pracovať s hlasom a ... čo to vôbec znamená
   zaujať a udržiavať pozornosť
 
-**Okrem rozprávania vieš v Toastmasters trénovať:**
+### Okrem rozprávania vieš v Toastmasters trénovať:
   vedenie ľudí
   organizovanie stretnutí
   rozhodovanie o napredovaní klubu
