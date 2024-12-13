@@ -5,8 +5,7 @@ title: ... reálne zručnosti pre skutočný život...
 ---
 
 
-Sme členom medzinárodnej organizácie [Toastmasters International](http://www.toastmasters.org/). Zároveň jediný klub Toastmasters od Michaloviec po Žilinu.
-Čo nás definuje?
+
 
 
  # bezpečné prostredie
