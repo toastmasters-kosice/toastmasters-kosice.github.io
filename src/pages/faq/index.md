@@ -5,10 +5,8 @@ title: Časté otázky
 ---
 
 ### Čo je to Toastmasters?
-Toastmasters Košice patrí do [Toastmasters International](http://www.toastmasters.org/). Sme teda súčasťou medzinárodnej organizácie, ktorá má kluby po celom svete.
+Sme súčasťou medzinárodnej organizácie [Toastmasters International](http://www.toastmasters.org/). V Toastmasters kladieme dôraz na praktické znalosti a riešenia reálnych problémov. Poskytujeme priestor na precvičovanie a aplikáciu rečníckych a líderských zručností. Každý prejav, spätná väzba či improvizačná úloha, sú navrhnuté s cieľom posúvať členov klubu ďalej. 
 
-Misia nášho klubu: 
-> „Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostne rastú.“
 
 ### Čo mi Toastmasters môže dať?
 V klube Toastmasters vieš rásť na dvoch úrovniach: ako rečník a ako líder. 
