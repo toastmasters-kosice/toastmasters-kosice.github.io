@@ -1,11 +1,8 @@
 ---
 templateKey: 'about-page'
 path: /o-nas
-title: ... reálne zručnosti pre skutočný život...
+title:
 ---
-
-
-
 
 
  # bezpečné prostredie
