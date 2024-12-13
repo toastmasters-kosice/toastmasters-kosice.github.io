@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /o-nas
-title:
+title: Toastmasters KE znamená...
 ---
 
 
