@@ -4,7 +4,7 @@ path: /speechcraft
 title: Speechcraft
 ---
 
-![Speechcraft](/img/speechcraft/speechcraft 2.0-vseobecny.png)
+![Speechcraft](/img/speechcraft/speechcraft-2.0-vseobecny.png)
 
 
 ## Každý má možnosť voľby! Môžeš rozprávať k veci a pútavo... ale nemusíš.
