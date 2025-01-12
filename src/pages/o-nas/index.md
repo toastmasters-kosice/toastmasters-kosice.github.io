@@ -8,11 +8,8 @@ title:
 Stretnutia sú primárne sústredené na "one man show" - teda prejavy a improvizácie, pri ktorých členovia vystupujú samostatne. Za posledný rok sme
 však zbadali záujem o simuláciu dialógových rozhovorov. Najmä smalltalky a konštruktívne vedenie dialógu, pro ktorom kontrolujeme smer, hranice
 rozhovoru a množstvo informácii, ktoré sme ochotní druhej strane poskytnúť.
-aj o tréning dia 
 
-
-
-
+**Definuju nás:**
 
  **bezpečné prostredie**
 - tvoríme priestor, kde môžeš experimentovať s prejavmi, robiť chyby a učiť sa z nich bez obáv z kritiky. Pochopenie a podpora sú základ.
