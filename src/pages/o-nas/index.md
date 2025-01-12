@@ -3,7 +3,12 @@ templateKey: 'about-page'
 path: /o-nas
 title:
 ---
-# Definuje nás:
+# Sme dynamický tým tvoriaci základ neziskovej organizácie. Nadšenci v oblasti vystupovania a rozprávania v jeho formálnej i neformálnej podobe.
+
+Stretnutia sú primárne sústredené na "one man show" - teda prejavy a improvizácie, pri ktorých členovia vystupujú samostatne. Za posledný rok sme
+však zbadali záujem o simuláciu dialógových rozhovorov. Najmä smalltalky a konštruktívne vedenie dialógu, pro ktorom kontrolujeme smer, hranice
+rozhovoru a množstvo informácii, ktoré sme ochotní druhej strane poskytnúť.
+aj o tréning dia 
 
 
 
