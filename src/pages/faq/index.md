@@ -10,7 +10,7 @@ praktické znalosti a riešenia reálnych problémov. Jednoducho povedané, posk
 líderských zručností. 
 
 ### Čo Ti Toastmasters vlastne dá?
-Všetko pre tréning tvojich "mäkkých zručností" - priestor, publikum, mentorov, skriptá... a v prípade dlhodobého záujmu aj možnosť
+Všetko pre tréning tvojich "mäkkých zručností" - priestor, publikum, mentorov, skriptá... a v prípade dlhodobého záujmu, aj možnosť
 pridať sa k vedeniu klubu.
 
 ### Môžeš sa prísť nezáväzne pozrieť?
@@ -18,17 +18,10 @@ Samozrejme. Každé stretnutie je zdarma otvorené pre hostí. Ako hosť sa mô�
 stretnutia. Pointov je, že improvizátor dostane tému, k nej 30 sekúnd na premyslenie a rozpráva 1 až 2 minúty. 
 
 ### Riešime ako
-  pripraviť prejav
-  sa hýbať po pódiu
-  zvládnuť mimiku a gestá
-  pracovať s hlasom a ... čo to vôbec znamená
-  zaujať a udržiavať pozornosť
+  pripraviť prejav, hýbať sa po pódiu, zvládnuť mimiku a gestá, pracovať s hlasom. Nájdeš odpoveď, čo to vôbec znamená, zaujať a udržiavať pozornosť.
 
 ### Okrem rozprávania vieš v Toastmasters trénovať:
-  vedenie ľudí
-  organizovanie stretnutí
-  rozhodovanie o napredovaní klubu
-  formulovanie konštruktívnej spätnej väzby, aj jej prijatie
+  Vedenie ľudí, organizovanie stretnutí, formulovanie konštruktívnej spätnej väzby, aj jej prijatie.
 
 
 ### Kde sa stretávame?
@@ -37,7 +30,7 @@ Stretávame sa vo Verejnej knižnici Jána Bocatia v Košiciach na Hviezdoslavov
 ### Ako často sa stretávame?
 Stretnutia prebiehajú dvakrát za mesiac, najčastejšie každú druhú stredu. Časovo sú vymedzené približne na hodinu a pol, so začiatkom o 17:30 hod.
 
-Aktuálne info o pripravovaných stretnutiach nájdeš tu na našom webe, ale aj na našom [Facebooku](https://www.facebook.com/toastmasters.kosice).
+Aktuálne info o pripravovaných stretnutiach nájdeš tu, na našom webe, ale aj na našom [Facebooku](https://www.facebook.com/toastmasters.kosice).
 
 ### Ako sa stať členom?
 Odpovede na členstvo ti poskytne náš viceprezident pre členstvo, František. Spojíš sa s ním cez náš [klubový email](mailto:klub@toastmasterskosice.sk).
